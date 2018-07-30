@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+   targetNamespace="http://dati.fasta.org/struct" xmlns:tns="http://dati.fasta.org/struct" >
+
+
+<xs:element name="proposte">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="proposta" type="tns:Proposta"  maxOccurs="10"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+
+<xs:complexType name="Proposta">
+	<xs:sequence>
+		<xs:element name="portieri" type="tns:Propostaruolo" />
+		<xs:element name="difensori" type="tns:Propostaruolo" minOccurs="0" />
+		<xs:element name="centrocampisti" type="tns:Propostaruolo" minOccurs="0"/>
+		<xs:element name="attaccanti" type="tns:Propostaruolo" minOccurs="0" />
+	</xs:sequence>
+	<xs:attribute name="squadra" type="xs:string" />
+	<xs:attribute name="riversacrediti" type="xs:boolean" />
+</xs:complexType>
+
+<xs:complexType name="Propostaruolo">
+	<xs:sequence>
+		<xs:element name="giocatore" type="tns:PropostaGiocatore" maxOccurs="unbounded" />
+	</xs:sequence>
+	<xs:attribute name="crediti" type="xs:int" />
+</xs:complexType>
+
+<xs:complexType name="PropostaGiocatore">
+	<xs:attribute name="nome" type="xs:string" use="required" />
+	<xs:attribute name="quota" type="xs:int" use="required"/>
+</xs:complexType>
+
+
+<xs:complexType name="GiocatoreElaborazione">
+	<xs:attribute name="nome" type="xs:string" use="required"/>
+	<xs:attribute name="squadra" type="xs:string" use="required"/>
+	<xs:attribute name="quotaorg" type="xs:int" use="required"/>
+	<xs:attribute name="quotacap" type="xs:int" use="required" />
+	<xs:attribute name="quotafinale" type="xs:int" use="required"/>
+	<xs:attribute name="ordine" type="xs:int" use="required"/>
+	<xs:attribute name="random" type="xs:int" use="required"/>
+	<xs:attribute name="posizioneAssegnazione" type="xs:int" use="required"/>
+</xs:complexType>
+
+<xs:complexType name="SquadraRuoloElaborazione">
+	<xs:sequence>
+		<xs:element name="squadra" type="xs:string" />
+		<xs:element name="papabile" type="tns:GiocatoreElaborazione" minOccurs="0" maxOccurs="unbounded" />
+		<xs:element name="assegnato" type="tns:GiocatoreElaborazione" minOccurs="0" maxOccurs="unbounded" />
+		<xs:element name="crediti" type="tns:CreditiRuolo" />
+	</xs:sequence>
+
+</xs:complexType>
+
+<xs:complexType name="CreditiRuolo">
+	<xs:attribute name="creditiIniziali" type="xs:int" use="required" />
+	<xs:attribute name="creditiRiportati" type="xs:int" use="required" />
+	<xs:attribute name="creditiResidui" type="xs:int" use="required" />
+		
+</xs:complexType>
+
+<xs:complexType name="ElaborazioneRuolo" >
+	<xs:sequence>
+		<xs:element name="squadra" type="tns:SquadraRuoloElaborazione" maxOccurs="unbounded"/>
+	</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="SetupRuolo" >
+	<xs:sequence>
+		<xs:element name="squadra" type="xs:string" />
+		<xs:element name="proposta" type="tns:Propostaruolo" />
+		<xs:element name="creditiRiportati" type="xs:int" />
+	</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="CreditiResiduiRuolo" >
+	<xs:attribute name="squadra" type="xs:string" use="required"/>
+	<xs:attribute name="crediti" type="xs:int" use="required"/>
+</xs:complexType>
+
+</xs:schema>

@@ -1,0 +1,2670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:proposte xmlns:tns="http://dati.fasta.org/struct"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dati.fasta.org/struct ../../main/resources/fasta.xsd ">
+
+	<proposta riversacrediti="false" squadra="S1">
+		<portieri crediti="20">
+			<giocatore nome="ALISSON" quota="18" />
+			<giocatore nome="BERISHA" quota="18" />
+			<giocatore nome="HANDANOVIC" quota="18" />
+			<giocatore nome="GOLLINI" quota="17" />
+			<giocatore nome="PADELLI" quota="17" />
+			<giocatore nome="SKORUPSKI" quota="17" />
+			<giocatore nome="BUFFON" quota="15" />
+			<giocatore nome="DONNARUMMA G" quota="15" />
+			<giocatore nome="REINA" quota="15" />
+			<giocatore nome="STRAKOSHA" quota="15" />
+			<giocatore nome="BELEC" quota="12" />
+			<giocatore nome="CONSIGLI" quota="12" />
+			<giocatore nome="CORDAZ" quota="12" />
+			<giocatore nome="CRAGNO" quota="12" />
+			<giocatore nome="MIRANTE" quota="12" />
+			<giocatore nome="PERIN" quota="12" />
+			<giocatore nome="SIRIGU" quota="12" />
+			<giocatore nome="SORRENTINO" quota="12" />
+			<giocatore nome="SPORTIELLO" quota="12" />
+			<giocatore nome="VIVIANO" quota="12" />
+			<giocatore nome="CROSTA" quota="10" />
+			<giocatore nome="DA COSTA" quota="10" />
+			<giocatore nome="GOMIS A" quota="10" />
+			<giocatore nome="MARCHETTI" quota="10" />
+			<giocatore nome="MERET" quota="10" />
+			<giocatore nome="NICOLAS" quota="10" />
+			<giocatore nome="PUGGIONI" quota="10" />
+			<giocatore nome="RAFAEL" quota="10" />
+			<giocatore nome="SANTURRO" quota="10" />
+			<giocatore nome="SCUFFET" quota="10" />
+		</portieri>
+		<difensori crediti="60">
+			<giocatore nome="BONUCCI" quota="53" />
+			<giocatore nome="KOLAROV" quota="53" />
+			<giocatore nome="KOULIBALY" quota="53" />
+			<giocatore nome="PEZZELLA GER" quota="53" />
+			<giocatore nome="ANDREOLLI" quota="50" />
+			<giocatore nome="BARRECA" quota="50" />
+			<giocatore nome="HATEBOER" quota="50" />
+			<giocatore nome="SKRINIAR" quota="50" />
+			<giocatore nome="BASTA" quota="40" />
+			<giocatore nome="CACCIATORE" quota="40" />
+			<giocatore nome="CANNAVARO" quota="40" />
+			<giocatore nome="DE SILVESTRI" quota="40" />
+			<giocatore nome="IZZO" quota="40" />
+			<giocatore nome="MAIETTA" quota="40" />
+			<giocatore nome="PALOMINO" quota="40" />
+			<giocatore nome="TOLOI" quota="40" />
+			<giocatore nome="ACERBI" quota="30" />
+			<giocatore nome="ALEX SANDRO" quota="30" />
+			<giocatore nome="RODRIGUEZ R" quota="30" />
+			<giocatore nome="CALDARA" quota="20" />
+			<giocatore nome="CHIELLINI" quota="20" />
+			<giocatore nome="CONTI" quota="20" />
+			<giocatore nome="DE VRIJ" quota="20" />
+			<giocatore nome="ASTORI" quota="10" />
+			<giocatore nome="BENATIA" quota="10" />
+			<giocatore nome="BRUNO PERES" quota="10" />
+			<giocatore nome="GHOULAM" quota="10" />
+			<giocatore nome="HOWEDES" quota="10" />
+			<giocatore nome="MANOLAS" quota="10" />
+			<giocatore nome="MIRANDA" quota="10" />
+			<giocatore nome="MUSACCHIO" quota="10" />
+			<giocatore nome="N'KOULOU" quota="10" />
+			<giocatore nome="RUGANI" quota="10" />
+			<giocatore nome="ALBIOL" quota="5" />
+			<giocatore nome="CANCELO" quota="5" />
+			<giocatore nome="DALBERT" quota="5" />
+			<giocatore nome="FAZIO" quota="5" />
+			<giocatore nome="LICHTSTEINER" quota="5" />
+			<giocatore nome="MASIELLO A" quota="5" />
+			<giocatore nome="NUYTINCK" quota="5" />
+			<giocatore nome="ROMAGNOLI A" quota="5" />
+			<giocatore nome="ROMULO" quota="5" />
+			<giocatore nome="D'AMBROSIO" quota="2" />
+			<giocatore nome="DANILO" quota="2" />
+			<giocatore nome="GAMBERINI" quota="2" />
+			<giocatore nome="GASPAR" quota="2" />
+			<giocatore nome="KARSDORP" quota="2" />
+			<giocatore nome="RADU" quota="2" />
+			<giocatore nome="SAMIR" quota="2" />
+			<giocatore nome="BARZAGLI" quota="1" />
+			<giocatore nome="BIRASCHI" quota="1" />
+			<giocatore nome="CABRERA" quota="1" />
+			<giocatore nome="CACERES" quota="1" />
+			<giocatore nome="FERRARI A" quota="1" />
+			<giocatore nome="FERRARI G" quota="1" />
+			<giocatore nome="HECTOR MORENO" quota="1" />
+			<giocatore nome="HEURTAUX" quota="1" />
+			<giocatore nome="HYSAJ" quota="1" />
+			<giocatore nome="JUAN JESUS" quota="1" />
+			<giocatore nome="LAZAAR" quota="1" />
+			<giocatore nome="LIROLA" quota="1" />
+			<giocatore nome="LUCIONI" quota="1" />
+			<giocatore nome="LUKAKU" quota="1" />
+			<giocatore nome="LYANCO" quota="1" />
+			<giocatore nome="MAKSIMOVIC" quota="1" />
+			<giocatore nome="MARTELLA" quota="1" />
+			<giocatore nome="MASINA" quota="1" />
+			<giocatore nome="MURRU" quota="1" />
+			<giocatore nome="PELUSO" quota="1" />
+			<giocatore nome="PISACANE" quota="1" />
+			<giocatore nome="REGINI" quota="1" />
+			<giocatore nome="ROSSETTINI" quota="1" />
+			<giocatore nome="SAMPIRISI" quota="1" />
+			<giocatore nome="SILVESTRE" quota="1" />
+			<giocatore nome="SOUPRAYEN" quota="1" />
+			<giocatore nome="VAN DER WIEL" quota="1" />
+			<giocatore nome="VICARI" quota="1" />
+			<giocatore nome="VITOR HUGO" quota="1" />
+			<giocatore nome="WALLACE" quota="1" />
+			<giocatore nome="WIDMER" quota="1" />
+		</difensori>
+		<centrocampisti crediti="80">
+			<giocatore nome="CHIESA" quota="73" />
+			<giocatore nome="FLORENZI" quota="73" />
+			<giocatore nome="NAINGGOLAN" quota="73" />
+			<giocatore nome="PJANIC" quota="73" />
+			<giocatore nome="BENASSI" quota="70" />
+			<giocatore nome="DE PAUL" quota="70" />
+			<giocatore nome="DE ROON" quota="70" />
+			<giocatore nome="DE ROSSI" quota="70" />
+			<giocatore nome="ILICIC" quota="70" />
+			<giocatore nome="JOAO PEDRO" quota="70" />
+			<giocatore nome="LUIS ALBERTO" quota="70" />
+			<giocatore nome="RAMIREZ" quota="70" />
+			<giocatore nome="VECINO" quota="70" />
+			<giocatore nome="ALLAN" quota="60" />
+			<giocatore nome="BASELLI" quota="60" />
+			<giocatore nome="BIGLIA" quota="60" />
+			<giocatore nome="BIRSA" quota="60" />
+			<giocatore nome="BORJA VALERO" quota="60" />
+			<giocatore nome="CASTRO" quota="60" />
+			<giocatore nome="CRISTANTE" quota="60" />
+			<giocatore nome="JOAO MARIO" quota="60" />
+			<giocatore nome="VIVIANI" quota="60" />
+			<giocatore nome="BERNARDESCHI" quota="50" />
+			<giocatore nome="BONAVENTURA" quota="50" />
+			<giocatore nome="CANDREVA" quota="50" />
+			<giocatore nome="DOUGLAS COSTA" quota="50" />
+			<giocatore nome="FELIPE ANDERSON" quota="50" />
+			<giocatore nome="HAMSIK" quota="50" />
+			<giocatore nome="MATUIDI" quota="50" />
+			<giocatore nome="MILINKOVIC-SAVIC" quota="50" />
+			<giocatore nome="PERISIC" quota="50" />
+			<giocatore nome="SUSO" quota="50" />
+			<giocatore nome="VERDI" quota="50" />
+			<giocatore nome="ZIELINSKI" quota="50" />
+			<giocatore nome="CALHANOGLU" quota="40" />
+			<giocatore nome="CUADRADO" quota="40" />
+			<giocatore nome="JANKTO" quota="40" />
+			<giocatore nome="KESSIE'" quota="40" />
+			<giocatore nome="KHEDIRA" quota="40" />
+			<giocatore nome="LULIC" quota="40" />
+			<giocatore nome="PAROLO" quota="40" />
+			<giocatore nome="PEROTTI" quota="40" />
+			<giocatore nome="STROOTMAN" quota="40" />
+			<giocatore nome="CICIRETTI" quota="30" />
+			<giocatore nome="DI FRANCESCO F" quota="30" />
+			<giocatore nome="EYSSERIC" quota="30" />
+			<giocatore nome="FOFANA" quota="30" />
+			<giocatore nome="GAGLIARDINI" quota="30" />
+			<giocatore nome="IONITA" quota="30" />
+			<giocatore nome="KURTIC" quota="30" />
+			<giocatore nome="LUCAS LEIVA" quota="30" />
+			<giocatore nome="SAPONARA" quota="30" />
+			<giocatore nome="VERETOUT" quota="30" />
+			<giocatore nome="BADELJ" quota="20" />
+			<giocatore nome="CENTURION" quota="20" />
+			<giocatore nome="D'ALESSANDRO" quota="20" />
+			<giocatore nome="FREULER" quota="20" />
+			<giocatore nome="GIL DIAS" quota="20" />
+			<giocatore nome="LAZZARI M" quota="20" />
+			<giocatore nome="MARCHISIO" quota="20" />
+			<giocatore nome="PELLEGRINI" quota="20" />
+			<giocatore nome="PRAET" quota="20" />
+			<giocatore nome="TAIDER" quota="20" />
+			<giocatore nome="UNDER" quota="20" />
+			<giocatore nome="ALVAREZ R" quota="10" />
+			<giocatore nome="BENASSI" quota="10" />
+			<giocatore nome="BERENGUER" quota="10" />
+			<giocatore nome="BERTOLACCI" quota="10" />
+			<giocatore nome="BESSA" quota="10" />
+			<giocatore nome="BROZOVIC" quota="10" />
+			<giocatore nome="DIAWARA" quota="10" />
+			<giocatore nome="DONSAH" quota="10" />
+			<giocatore nome="HALLFREDSSON" quota="10" />
+			<giocatore nome="KREJCI" quota="10" />
+			<giocatore nome="LAXALT" quota="10" />
+			<giocatore nome="LAZOVIC" quota="10" />
+			<giocatore nome="MISSIROLI" quota="10" />
+			<giocatore nome="SENSI" quota="10" />
+			<giocatore nome="SPINAZZOLA" quota="10" />
+			<giocatore nome="TORREIRA" quota="10" />
+		</centrocampisti>
+
+
+		<attaccanti crediti="100">
+			<giocatore nome="BELOTTI" quota="95" />
+			<giocatore nome="DYBALA" quota="95" />
+			<giocatore nome="ICARDI" quota="95" />
+			<giocatore nome="KALINIC" quota="95" />
+			<giocatore nome="DZEKO" quota="80" />
+			<giocatore nome="GOMEZ A" quota="80" />
+			<giocatore nome="INSIGNE" quota="80" />
+			<giocatore nome="MERTENS" quota="80" />
+			<giocatore nome="BORRIELLO" quota="60" />
+			<giocatore nome="CORNELIUS" quota="60" />
+			<giocatore nome="IAGO FALQUE" quota="60" />
+			<giocatore nome="IMMOBILE" quota="60" />
+			<giocatore nome="LJAJIC" quota="60" />
+			<giocatore nome="PALACIO" quota="60" />
+			<giocatore nome="PALOSCHI" quota="60" />
+			<giocatore nome="PAVOLETTI" quota="60" />
+			<giocatore nome="QUAGLIARELLA" quota="60" />
+			<giocatore nome="RAGUSA" quota="60" />
+			<giocatore nome="SIMEONE" quota="60" />
+			<giocatore nome="CALLEJON" quota="50" />
+			<giocatore nome="HIGUAIN" quota="50" />
+			<giocatore nome="FALCINELLI" quota="40" />
+			<giocatore nome="MANDZUKIC" quota="40" />
+			<giocatore nome="PAZZINI" quota="40" />
+			<giocatore nome="SCHICK" quota="40" />
+			<giocatore nome="THEREAU" quota="40" />
+			<giocatore nome="ANDRE' SILVA" quota="30" />
+			<giocatore nome="BERARDI" quota="30" />
+			<giocatore nome="DEFREL" quota="30" />
+			<giocatore nome="EL SHAARAWY" quota="30" />
+			<giocatore nome="INGLESE" quota="30" />
+			<giocatore nome="LAPADULA" quota="30" />
+			<giocatore nome="MILIK" quota="30" />
+			<giocatore nome="NANI" quota="30" />
+			<giocatore nome="ZAPATA D" quota="30" />
+			<giocatore nome="ARMENTEROS" quota="20" />
+			<giocatore nome="BAJIC" quota="20" />
+			<giocatore nome="CAPRARI" quota="20" />
+			<giocatore nome="CERCI" quota="20" />
+			<giocatore nome="DESTRO" quota="20" />
+			<giocatore nome="LASAGNA" quota="20" />
+			<giocatore nome="PETAGNA" quota="20" />
+			<giocatore nome="POLITANO" quota="20" />
+			<giocatore nome="SAU" quota="20" />
+			<giocatore nome="ANTENUCCI" quota="10" />
+			<giocatore nome="BABACAR" quota="10" />
+			<giocatore nome="BORINI" quota="10" />
+			<giocatore nome="BOYE'" quota="10" />
+			<giocatore nome="BUDIMIR" quota="10" />
+			<giocatore nome="CAICEDO" quota="10" />
+			<giocatore nome="EDER" quota="10" />
+			<giocatore nome="FARIAS" quota="10" />
+			<giocatore nome="KARAMOH" quota="10" />
+			<giocatore nome="MATRI" quota="10" />
+			<giocatore nome="NIANG" quota="10" />
+			<giocatore nome="OUNAS" quota="10" />
+			<giocatore nome="PELLISSIER" quota="10" />
+			<giocatore nome="PERICA" quota="10" />
+			<giocatore nome="PUCCIARELLI" quota="10" />
+			<giocatore nome="TROTTA" quota="10" />
+		</attaccanti>
+	</proposta>
+
+
+	<proposta riversacrediti="true" squadra="S2">
+		<portieri crediti="7">
+			<giocatore nome="BUFFON" quota="5" />
+			<giocatore nome="HANDANOVIC" quota="5" />
+			<giocatore nome="DONNARUMMA G" quota="5" />
+			<giocatore nome="REINA" quota="5" />
+			<giocatore nome="ALISSON" quota="5" />
+			<giocatore nome="STRAKOSHA" quota="4" />
+			<giocatore nome="BERISHA" quota="4" />
+			<giocatore nome="SIRIGU" quota="4" />
+			<giocatore nome="SPORTIELLO" quota="4" />
+			<giocatore nome="PERIN" quota="4" />
+			<giocatore nome="CONSIGLI" quota="3" />
+			<giocatore nome="VIVIANO" quota="3" />
+			<giocatore nome="SCUFFET" quota="3" />
+			<giocatore nome="SORRENTINO" quota="2" />
+			<giocatore nome="MIRANTE" quota="2" />
+			<giocatore nome="CRAGNO" quota="2" />
+			<giocatore nome="BELEC" quota="1" />
+			<giocatore nome="CORDAZ" quota="1" />
+			<giocatore nome="MERET" quota="1" />
+			<giocatore nome="NICOLAS" quota="1" />
+			<giocatore nome="SZCZESNY" quota="1" />
+			<giocatore nome="a1" quota="1" />
+			<giocatore nome="a2" quota="1" />
+			<giocatore nome="a3" quota="1" />
+			<giocatore nome="a4" quota="1" />
+			<giocatore nome="a5" quota="1" />
+			<giocatore nome="a6" quota="1" />
+			<giocatore nome="a7" quota="1" />
+			<giocatore nome="a8" quota="1" />
+			<giocatore nome="a9" quota="1" />
+		</portieri>
+		<difensori crediti="20">
+			<giocatore nome="ALEX SANDRO" quota="11" />
+			<giocatore nome="BONUCCI" quota="11" />
+			<giocatore nome="RODRIGUEZ R" quota="11" />
+			<giocatore nome="KOULIBALY" quota="11" />
+			<giocatore nome="CALDARA" quota="10" />
+			<giocatore nome="ACERBI" quota="10" />
+			<giocatore nome="DE VRIJ" quota="10" />
+			<giocatore nome="KOLAROV" quota="10" />
+			<giocatore nome="MANOLAS" quota="10" />
+			<giocatore nome="CHIELLINI" quota="9" />
+			<giocatore nome="GHOULAM" quota="9" />
+			<giocatore nome="MIRANDA" quota="9" />
+			<giocatore nome="SKRINIAR" quota="9" />
+			<giocatore nome="MUSACCHIO" quota="9" />
+			<giocatore nome="ALBIOL" quota="8" />
+			<giocatore nome="ROMAGNOLI A" quota="8" />
+			<giocatore nome="LICHTSTEINER" quota="8" />
+			<giocatore nome="HYSAJ" quota="8" />
+			<giocatore nome="MASIELLO A" quota="7" />
+			<giocatore nome="ASTORI" quota="7" />
+			<giocatore nome="D'AMBROSIO" quota="7" />
+			<giocatore nome="KARSDORP" quota="6" />
+			<giocatore nome="HOWEDES" quota="6" />
+			<giocatore nome="DALBERT" quota="6" />
+			<giocatore nome="BASTA" quota="5" />
+			<giocatore nome="FERRARI G" quota="5" />
+			<giocatore nome="WIDMER" quota="5" />
+			<giocatore nome="N'KOULOU" quota="4" />
+			<giocatore nome="BARZAGLI" quota="4" />
+			<giocatore nome="DANILO" quota="4" />
+			<giocatore nome="BENATIA" quota="3" />
+			<giocatore nome="BARRECA" quota="3" />
+			<giocatore nome="CANCELO" quota="3" />
+			<giocatore nome="RUGANI" quota="2" />
+			<giocatore nome="HEURTAUX" quota="2" />
+			<giocatore nome="JUAN JESUS" quota="2" />
+			<giocatore nome="SILVESTRE" quota="1" />
+			<giocatore nome="ANDREOLLI" quota="1" />
+			<giocatore nome="VAN DER WIEL" quota="1" />
+			<giocatore nome="TOLOI" quota="1" />
+			<giocatore nome="SAMIR" quota="1" />
+			<giocatore nome="FAZIO" quota="1" />
+			<giocatore nome="CACCIATORE" quota="1" />
+			<giocatore nome="CANNAVARO" quota="1" />
+			<giocatore nome="IZZO" quota="1" />
+			<giocatore nome="CACERES" quota="1" />
+			<giocatore nome="FELIPE" quota="1" />
+			<giocatore nome="PEZZELLA GER" quota="1" />
+			<giocatore nome="BIRAGHI" quota="1" />
+			<giocatore nome="WALLACE" quota="1" />
+			<giocatore nome="DE SILVESTRI" quota="1" />
+			<giocatore nome="RADU" quota="1" />
+			<giocatore nome="MORETTI" quota="1" />
+			<giocatore nome="MASINA" quota="1" />
+			<giocatore nome="LIROLA" quota="1" />
+			<giocatore nome="SOUPRAYEN" quota="1" />
+			<giocatore nome="MORETTI" quota="1" />
+			<giocatore nome="FARAONI" quota="1" />
+			<giocatore nome="DI CHIARA" quota="1" />
+			<giocatore nome="ROSSETTINI" quota="1" />
+			<giocatore nome="STRINIC" quota="1" />
+			<giocatore nome="SOUPRAYEN" quota="1" />
+			<giocatore nome="CECCHERINI" quota="1" />
+			<giocatore nome="MIANGUE" quota="1" />
+			<giocatore nome="NUYTINCK" quota="1" />
+			<giocatore nome="ZUKANOVIC" quota="1" />
+			<giocatore nome="TOROSIDIS" quota="1" />
+			<giocatore nome="GONZALEZ G" quota="1" />
+			<giocatore nome="GAMBERINI" quota="1" />
+			<giocatore nome="BIRASCHI" quota="1" />
+			<giocatore nome="DAINELLI" quota="1" />
+			<giocatore nome="PISACANE" quota="1" />
+			<giocatore nome="ANTEI" quota="1" />
+			<giocatore nome="VENUTI" quota="1" />
+			<giocatore nome="DE MAIO" quota="1" />
+			<giocatore nome="MARTELLA" quota="1" />
+			<giocatore nome="CABRERA" quota="1" />
+			<giocatore nome="OIKONOMOU" quota="1" />
+			<giocatore nome="VICARI" quota="1" />
+			<giocatore nome="PADOIN" quota="1" />
+		</difensori>
+
+
+		<centrocampisti crediti="43">
+			<giocatore nome="HAMSIK" quota="30" />
+			<giocatore nome="NAINGGOLAN" quota="30" />
+			<giocatore nome="PERISIC" quota="30" />
+			<giocatore nome="PEROTTI" quota="29" />
+			<giocatore nome="SUSO" quota="28" />
+			<giocatore nome="KESSIE'" quota="28" />
+			<giocatore nome="MILINKOVIC-SAVIC" quota="27" />
+			<giocatore nome="DOUGLAS COSTA" quota="25" />
+			<giocatore nome="PJANIC" quota="25" />
+			<giocatore nome="FELIPE ANDERSON" quota="25" />
+			<giocatore nome="STROOTMAN" quota="25" />
+			<giocatore nome="CANDREVA" quota="24" />
+			<giocatore nome="CUADRADO" quota="24" />
+			<giocatore nome="ZIELINSKI" quota="23" />
+			<giocatore nome="JOAO MARIO" quota="23" />
+			<giocatore nome="CHIESA" quota="22" />
+			<giocatore nome="BORJA VALERO" quota="20" />
+			<giocatore nome="BIGLIA" quota="20" />
+			<giocatore nome="JOAO PEDRO" quota="19" />
+			<giocatore nome="VERDI" quota="19" />
+			<giocatore nome="BIRSA" quota="18" />
+			<giocatore nome="JORGINHO" quota="18" />
+			<giocatore nome="RAMIREZ" quota="17" />
+			<giocatore nome="CALHANOGLU" quota="17" />
+			<giocatore nome="BONAVENTURA" quota="16" />
+			<giocatore nome="KHEDIRA" quota="16" />
+			<giocatore nome="CASTRO" quota="15" />
+			<giocatore nome="ILICIC" quota="15" />
+			<giocatore nome="FLORENZI" quota="14" />
+			<giocatore nome="MATUIDI" quota="14" />
+			<giocatore nome="LAXALT" quota="13" />
+			<giocatore nome="DE ROSSI" quota="13" />
+			<giocatore nome="BASELLI" quota="12" />
+			<giocatore nome="MARCHISIO" quota="12" />
+			<giocatore nome="BERNARDESCHI" quota="12" />
+			<giocatore nome="PAROLO" quota="11" />
+			<giocatore nome="GAGLIARDINI" quota="11" />
+			<giocatore nome="KURTIC" quota="11" />
+			<giocatore nome="DI FRANCESCO F" quota="11" />
+			<giocatore nome="LUCAS LEIVA" quota="11" />
+			<giocatore nome="DE ROON" quota="9" />
+			<giocatore nome="ROG" quota="9" />
+			<giocatore nome="UNDER" quota="8" />
+			<giocatore nome="BROZOVIC" quota="8" />
+			<giocatore nome="LULIC" quota="7" />
+			<giocatore nome="JANKTO" quota="6" />
+			<giocatore nome="ALLAN" quota="5" />
+			<giocatore nome="BERTOLACCI" quota="4" />
+			<giocatore nome="BENASSI" quota="3" />
+			<giocatore nome="VECINO" quota="3" />
+			<giocatore nome="BESSA" quota="2" />
+			<giocatore nome="CICIRETTI" quota="1" />
+			<giocatore nome="CIGARINI" quota="1" />
+			<giocatore nome="TORREIRA" quota="1" />
+			<giocatore nome="SAPONARA" quota="1" />
+			<giocatore nome="BARELLA" quota="1" />
+			<giocatore nome="MIGUEL VELOSO" quota="1" />
+			<giocatore nome="PRAET" quota="1" />
+			<giocatore nome="FOFANA" quota="1" />
+			<giocatore nome="DE PAUL" quota="1" />
+			<giocatore nome="POLI" quota="1" />
+			<giocatore nome="DUNCAN" quota="1" />
+			<giocatore nome="FREULER" quota="1" />
+			<giocatore nome="TAIDER" quota="1" />
+			<giocatore nome="COSSU" quota="1" />
+			<giocatore nome="LINETTY" quota="1" />
+			<giocatore nome="CRISTANTE" quota="1" />
+			<giocatore nome="MAGNANELLI" quota="1" />
+			<giocatore nome="IONITA" quota="1" />
+			<giocatore nome="STOIAN" quota="1" />
+			<giocatore nome="MORA" quota="1" />
+			<giocatore nome="VIVIANI" quota="1" />
+			<giocatore nome="HALLFREDSSON" quota="1" />
+			<giocatore nome="RINCON" quota="1" />
+			<giocatore nome="MISSIROLI" quota="1" />
+			<giocatore nome="BARRETO E" quota="1" />
+			<giocatore nome="LAZOVIC" quota="1" />
+			<giocatore nome="BADELJ" quota="1" />
+			<giocatore nome="IZCO" quota="1" />
+			<giocatore nome="NALINI" quota="1" />
+		</centrocampisti>
+
+
+		<attaccanti crediti="190">
+			<giocatore nome="ICARDI" quota="130" />
+			<giocatore nome="DYBALA" quota="120" />
+			<giocatore nome="HIGUAIN" quota="110" />
+			<giocatore nome="DZEKO" quota="100" />
+			<giocatore nome="BELOTTI" quota="90" />
+			<giocatore nome="IMMOBILE" quota="90" />
+			<giocatore nome="MERTENS" quota="90" />
+			<giocatore nome="INSIGNE" quota="80" />
+			<giocatore nome="GOMEZ A" quota="70" />
+			<giocatore nome="CALLEJON" quota="60" />
+			<giocatore nome="KALINIC" quota="50" />
+			<giocatore nome="QUAGLIARELLA" quota="50" />
+			<giocatore nome="SIMEONE" quota="50" />
+			<giocatore nome="BERARDI" quota="40" />
+			<giocatore nome="MANDZUKIC" quota="40" />
+			<giocatore nome="BORRIELLO" quota="30" />
+			<giocatore nome="PAVOLETTI" quota="30" />
+			<giocatore nome="IAGO FALQUE" quota="30" />
+			<giocatore nome="ANDRE' SILVA" quota="20" />
+			<giocatore nome="SCHICK" quota="20" />
+			<giocatore nome="MILIK" quota="20" />
+			<giocatore nome="LAPADULA" quota="20" />
+			<giocatore nome="LJAJIC" quota="16" />
+			<giocatore nome="THEREAU" quota="16" />
+			<giocatore nome="EL SHAARAWY" quota="16" />
+			<giocatore nome="DEFREL" quota="10" />
+			<giocatore nome="DESTRO" quota="10" />
+			<giocatore nome="ZAPATA D" quota="10" />
+			<giocatore nome="FALCINELLI" quota="10" />
+			<giocatore nome="INGLESE" quota="9" />
+			<giocatore nome="PETAGNA" quota="8" />
+			<giocatore nome="PAZZINI" quota="7" />
+			<giocatore nome="NANI" quota="6" />
+			<giocatore nome="NIANG" quota="5" />
+			<giocatore nome="CUTRONE" quota="4" />
+			<giocatore nome="EDER" quota="3" />
+			<giocatore nome="PERICA" quota="3" />
+			<giocatore nome="CORNELIUS" quota="2" />
+			<giocatore nome="BABACAR" quota="2" />
+			<giocatore nome="FARIAS" quota="2" />
+			<giocatore nome="POLITANO" quota="2" />
+			<giocatore nome="SAU" quota="1" />
+			<giocatore nome="LASAGNA" quota="1" />
+			<giocatore nome="PUCCIARELLI" quota="1" />
+			<giocatore nome="PALACIO" quota="1" />
+			<giocatore nome="CERCI" quota="1" />
+			<giocatore nome="PALOSCHI" quota="1" />
+			<giocatore nome="KEAN" quota="1" />
+			<giocatore nome="BAJIC" quota="1" />
+			<giocatore nome="RICCI" quota="1" />
+			<giocatore nome="ORSOLINI" quota="1" />
+			<giocatore nome="VERDE" quota="1" />
+			<giocatore nome="OUNAS" quota="1" />
+			<giocatore nome="TUMMINELLO" quota="1" />
+			<giocatore nome="KOWNACKI" quota="1" />
+			<giocatore nome="GALABINOV" quota="1" />
+			<giocatore nome="KARAMOH" quota="1" />
+			<giocatore nome="MAXI LOPEZ" quota="1" />
+			<giocatore nome="PELLISSIER" quota="1" />
+			<giocatore nome="BORINI" quota="1" />
+		</attaccanti>
+	</proposta>
+
+
+	<proposta riversacrediti="true" squadra="S3">
+		<portieri crediti="18">
+			<giocatore nome="HANDANOVIC" quota="15" />
+			<giocatore nome="DONNARUMMA G" quota="14" />
+			<giocatore nome="REINA" quota="14" />
+			<giocatore nome="ALISSON" quota="14" />
+			<giocatore nome="BUFFON" quota="14" />
+			<giocatore nome="BERISHA" quota="12" />
+			<giocatore nome="STRAKOSHA" quota="12" />
+			<giocatore nome="SPORTIELLO" quota="12" />
+			<giocatore nome="SIRIGU" quota="11" />
+			<giocatore nome="SCUFFET" quota="11" />
+			<giocatore nome="MIRANTE" quota="11" />
+			<giocatore nome="CONSIGLI" quota="11" />
+			<giocatore nome="SORRENTINO" quota="10" />
+			<giocatore nome="VIVIANO" quota="10" />
+			<giocatore nome="PERIN" quota="10" />
+			<giocatore nome="CORDAZ" quota="10" />
+			<giocatore nome="CRAGNO" quota="10" />
+			<giocatore nome="SZCZESNY" quota="10" />
+			<giocatore nome="MERET" quota="7" />
+			<giocatore nome="BELEC" quota="5" />
+			<giocatore nome="NICOLAS" quota="5" />
+			<giocatore nome="PUGGIONI" quota="1" />
+			<giocatore nome="GOLLINI" quota="1" />
+			<giocatore nome="GOMIS A" quota="1" />
+			<giocatore nome="PADELLI" quota="1" />
+			<giocatore nome="DA COSTA" quota="1" />
+			<giocatore nome="LAMANNA" quota="1" />
+			<giocatore nome="SKORUPSKI" quota="1" />
+			<giocatore nome="MARCHETTI" quota="1" />
+			<giocatore nome="SEPE" quota="1" />
+		</portieri>
+
+
+		<difensori crediti="24">
+			<giocatore nome="CALDARA" quota="16" />
+			<giocatore nome="KOLAROV" quota="13" />
+			<giocatore nome="RODRIGUEZ R" quota="11" />
+			<giocatore nome="GHOULAM" quota="10" />
+			<giocatore nome="MASIELLO A" quota="9" />
+			<giocatore nome="KOULIBALY" quota="9" />
+			<giocatore nome="ACERBI" quota="9" />
+			<giocatore nome="ALEX SANDRO" quota="9" />
+			<giocatore nome="RUGANI" quota="9" />
+			<giocatore nome="STRINIC" quota="9" />
+			<giocatore nome="BONUCCI" quota="9" />
+			<giocatore nome="SKRINIAR" quota="9" />
+			<giocatore nome="ASTORI" quota="9" />
+			<giocatore nome="PEZZELLA GER" quota="9" />
+			<giocatore nome="LUKAKU" quota="9" />
+			<giocatore nome="D'AMBROSIO" quota="9" />
+			<giocatore nome="MIRANDA" quota="9" />
+			<giocatore nome="LIROLA" quota="9" />
+			<giocatore nome="HOWEDES" quota="9" />
+			<giocatore nome="GASPAR" quota="9" />
+			<giocatore nome="DE VRIJ" quota="8" />
+			<giocatore nome="ALBIOL" quota="8" />
+			<giocatore nome="N'KOULOU" quota="8" />
+			<giocatore nome="CHIELLINI" quota="8" />
+			<giocatore nome="MANOLAS" quota="8" />
+			<giocatore nome="FAZIO" quota="8" />
+			<giocatore nome="NUYTINCK" quota="8" />
+			<giocatore nome="ROMULO" quota="8" />
+			<giocatore nome="DE SILVESTRI" quota="8" />
+			<giocatore nome="BENATIA" quota="8" />
+			<giocatore nome="DALBERT" quota="8" />
+			<giocatore nome="WIDMER" quota="8" />
+			<giocatore nome="GAMBERINI" quota="8" />
+			<giocatore nome="SAMIR" quota="8" />
+			<giocatore nome="HYSAJ" quota="8" />
+			<giocatore nome="HATEBOER" quota="8" />
+			<giocatore nome="MUSACCHIO" quota="8" />
+			<giocatore nome="BIRAGHI" quota="8" />
+			<giocatore nome="SILVESTRE" quota="8" />
+			<giocatore nome="CACCIATORE" quota="8" />
+			<giocatore nome="VICARI" quota="8" />
+			<giocatore nome="BASTA" quota="8" />
+			<giocatore nome="BARRECA" quota="5" />
+			<giocatore nome="BARZAGLI" quota="5" />
+			<giocatore nome="LYANCO" quota="5" />
+			<giocatore nome="ABATE" quota="3" />
+			<giocatore nome="PISACANE" quota="3" />
+			<giocatore nome="ROMAGNOLI A" quota="3" />
+			<giocatore nome="RADU" quota="3" />
+			<giocatore nome="ADJAPONG" quota="3" />
+			<giocatore nome="DANILO" quota="3" />
+			<giocatore nome="CALABRIA" quota="3" />
+			<giocatore nome="MOLINARO" quota="3" />
+			<giocatore nome="TOLOI" quota="3" />
+			<giocatore nome="LICHTSTEINER" quota="3" />
+			<giocatore nome="JUAN JESUS" quota="3" />
+			<giocatore nome="BASTOS" quota="3" />
+			<giocatore nome="CASTAGNE" quota="3" />
+			<giocatore nome="ANSALDI" quota="3" />
+			<giocatore nome="GOBBI" quota="2" />
+			<giocatore nome="CANCELO" quota="2" />
+			<giocatore nome="ANDREOLLI" quota="2" />
+			<giocatore nome="ROSSETTINI" quota="2" />
+			<giocatore nome="PELUSO" quota="2" />
+			<giocatore nome="MASINA" quota="2" />
+			<giocatore nome="ASAMOAH" quota="2" />
+			<giocatore nome="VAN DER WIEL" quota="2" />
+			<giocatore nome="MARTELLA" quota="2" />
+			<giocatore nome="WALLACE" quota="2" />
+			<giocatore nome="CANNAVARO" quota="2" />
+			<giocatore nome="FERRARI G" quota="2" />
+			<giocatore nome="KARSDORP" quota="2" />
+			<giocatore nome="REGINI" quota="2" />
+			<giocatore nome="MURRU" quota="2" />
+			<giocatore nome="IZZO" quota="2" />
+			<giocatore nome="CABRERA" quota="2" />
+			<giocatore nome="MARTELLA" quota="2" />
+			<giocatore nome="SAMPIRISI" quota="2" />
+			<giocatore nome="ABATE" quota="2" />
+			<giocatore nome="GOSENS" quota="2" />
+		</difensori>
+
+
+		<centrocampisti crediti="88">
+			<giocatore nome="PERISIC" quota="65" />
+			<giocatore nome="HAMSIK" quota="47" />
+			<giocatore nome="JOAO PEDRO" quota="36" />
+			<giocatore nome="VERDI" quota="36" />
+			<giocatore nome="CHIESA" quota="36" />
+			<giocatore nome="NAINGGOLAN" quota="36" />
+			<giocatore nome="PEROTTI" quota="36" />
+			<giocatore nome="SUSO" quota="36" />
+			<giocatore nome="ILICIC" quota="36" />
+			<giocatore nome="PJANIC" quota="36" />
+			<giocatore nome="MILINKOVIC-SAVIC" quota="35" />
+			<giocatore nome="BIRSA" quota="35" />
+			<giocatore nome="ZIELINSKI" quota="34" />
+			<giocatore nome="KESSIE'" quota="34" />
+			<giocatore nome="BONAVENTURA" quota="30" />
+			<giocatore nome="CANDREVA" quota="30" />
+			<giocatore nome="DI FRANCESCO F" quota="30" />
+			<giocatore nome="RAMIREZ" quota="26" />
+			<giocatore nome="DE PAUL" quota="26" />
+			<giocatore nome="FELIPE ANDERSON" quota="25" />
+			<giocatore nome="JANKTO" quota="22" />
+			<giocatore nome="LUIS ALBERTO" quota="22" />
+			<giocatore nome="SAPONARA" quota="22" />
+			<giocatore nome="STROOTMAN" quota="22" />
+			<giocatore nome="CASTRO" quota="22" />
+			<giocatore nome="BERNARDESCHI" quota="18" />
+			<giocatore nome="FLORENZI" quota="18" />
+			<giocatore nome="FREULER" quota="18" />
+			<giocatore nome="FOFANA" quota="18" />
+			<giocatore nome="JORGINHO" quota="18" />
+			<giocatore nome="MATUIDI" quota="18" />
+			<giocatore nome="CUADRADO" quota="18" />
+			<giocatore nome="CALHANOGLU" quota="18" />
+			<giocatore nome="ALLAN" quota="16" />
+			<giocatore nome="VERETOUT" quota="16" />
+			<giocatore nome="VECINO" quota="16" />
+			<giocatore nome="CRISTANTE" quota="16" />
+			<giocatore nome="CICIRETTI" quota="16" />
+			<giocatore nome="DE ROSSI" quota="16" />
+			<giocatore nome="BIGLIA" quota="16" />
+			<giocatore nome="PAROLO" quota="16" />
+			<giocatore nome="JOAO MARIO" quota="16" />
+			<giocatore nome="KHEDIRA" quota="16" />
+			<giocatore nome="BORJA VALERO" quota="12" />
+			<giocatore nome="DOUGLAS COSTA" quota="12" />
+			<giocatore nome="LULIC" quota="12" />
+			<giocatore nome="GIL DIAS" quota="12" />
+			<giocatore nome="KURTIC" quota="12" />
+			<giocatore nome="LUCAS LEIVA" quota="12" />
+			<giocatore nome="BARELLA" quota="12" />
+			<giocatore nome="TAARABT" quota="12" />
+			<giocatore nome="TORREIRA" quota="12" />
+			<giocatore nome="BESSA" quota="12" />
+			<giocatore nome="BROZOVIC" quota="10" />
+			<giocatore nome="BENASSI" quota="10" />
+			<giocatore nome="LAZZARI M" quota="10" />
+			<giocatore nome="IONITA" quota="10" />
+			<giocatore nome="SENSI" quota="10" />
+			<giocatore nome="TORREIRA" quota="10" />
+			<giocatore nome="BASELLI" quota="10" />
+			<giocatore nome="UNDER" quota="10" />
+			<giocatore nome="VIVIANI" quota="10" />
+			<giocatore nome="DE ROON" quota="10" />
+			<giocatore nome="PELLEGRINI" quota="10" />
+			<giocatore nome="MARCHISIO" quota="10" />
+			<giocatore nome="GAGLIARDINI" quota="10" />
+			<giocatore nome="D'ALESSANDRO" quota="10" />
+			<giocatore nome="DIAWARA" quota="10" />
+			<giocatore nome="SPINAZZOLA" quota="10" />
+			<giocatore nome="BERENGUER" quota="10" />
+			<giocatore nome="DONSAH" quota="10" />
+			<giocatore nome="BADELJ" quota="10" />
+			<giocatore nome="BENTANCUR" quota="10" />
+			<giocatore nome="CENTURION" quota="2" />
+			<giocatore nome="BARAK" quota="2" />
+			<giocatore nome="MISSIROLI" quota="2" />
+			<giocatore nome="POLI" quota="2" />
+			<giocatore nome="TAIDER" quota="2" />
+			<giocatore nome="PRAET" quota="2" />
+			<giocatore nome="STOIAN" quota="2" />
+		</centrocampisti>
+
+
+		<attaccanti crediti="130">
+			<giocatore nome="MERTENS" quota="81" />
+			<giocatore nome="ICARDI" quota="81" />
+			<giocatore nome="IMMOBILE" quota="81" />
+			<giocatore nome="DYBALA" quota="81" />
+			<giocatore nome="BELOTTI" quota="81" />
+			<giocatore nome="DZEKO" quota="81" />
+			<giocatore nome="HIGUAIN" quota="81" />
+			<giocatore nome="INSIGNE" quota="81" />
+			<giocatore nome="KALINIC" quota="81" />
+			<giocatore nome="CALLEJON" quota="81" />
+			<giocatore nome="GOMEZ A" quota="81" />
+			<giocatore nome="SCHICK" quota="40" />
+			<giocatore nome="THEREAU" quota="40" />
+			<giocatore nome="SIMEONE" quota="40" />
+			<giocatore nome="ZAPATA D" quota="40" />
+			<giocatore nome="LJAJIC" quota="40" />
+			<giocatore nome="IAGO FALQUE" quota="40" />
+			<giocatore nome="LASAGNA" quota="40" />
+			<giocatore nome="BORRIELLO" quota="40" />
+			<giocatore nome="FALCINELLI" quota="40" />
+			<giocatore nome="QUAGLIARELLA" quota="35" />
+			<giocatore nome="LAPADULA" quota="35" />
+			<giocatore nome="PETAGNA" quota="35" />
+			<giocatore nome="MILIK" quota="35" />
+			<giocatore nome="PERICA" quota="30" />
+			<giocatore nome="INGLESE" quota="30" />
+			<giocatore nome="BERARDI" quota="30" />
+			<giocatore nome="MANDZUKIC" quota="30" />
+			<giocatore nome="PAVOLETTI" quota="25" />
+			<giocatore nome="CORNELIUS" quota="25" />
+			<giocatore nome="ANDRE' SILVA" quota="25" />
+			<giocatore nome="NANI" quota="25" />
+			<giocatore nome="NIANG" quota="20" />
+			<giocatore nome="EL SHAARAWY" quota="20" />
+			<giocatore nome="CAPRARI" quota="20" />
+			<giocatore nome="FARIAS" quota="20" />
+			<giocatore nome="SAU" quota="20" />
+			<giocatore nome="DESTRO" quota="20" />
+			<giocatore nome="PAZZINI" quota="20" />
+			<giocatore nome="EDER" quota="20" />
+			<giocatore nome="PELLISSIER" quota="20" />
+			<giocatore nome="ORSOLINI" quota="20" />
+			<giocatore nome="TUMMINELLO" quota="20" />
+			<giocatore nome="POLITANO" quota="20" />
+			<giocatore nome="PUCCIARELLI" quota="20" />
+			<giocatore nome="BUDIMIR" quota="20" />
+			<giocatore nome="KEAN" quota="12" />
+			<giocatore nome="PELLEGRI" quota="12" />
+			<giocatore nome="PALACIO" quota="11" />
+			<giocatore nome="BABACAR" quota="11" />
+			<giocatore nome="DEFREL" quota="11" />
+			<giocatore nome="ARMENTEROS" quota="11" />
+			<giocatore nome="CUTRONE" quota="10" />
+			<giocatore nome="OUNAS" quota="10" />
+			<giocatore nome="VERDE" quota="1" />
+			<giocatore nome="IEMMELLO" quota="1" />
+			<giocatore nome="ANTENUCCI" quota="1" />
+			<giocatore nome="MAXI LOPEZ" quota="1" />
+			<giocatore nome="CODA M" quota="1" />
+			<giocatore nome="PALOSCHI" quota="1" />
+		</attaccanti>
+
+	</proposta>
+	<proposta riversacrediti="true" squadra="S4">
+		<portieri crediti="15">
+			<giocatore nome="HANDANOVIC" quota="13" />
+			<giocatore nome="ALISSON" quota="13" />
+			<giocatore nome="DONNARUMMA G" quota="11" />
+			<giocatore nome="REINA" quota="10" />
+			<giocatore nome="STRAKOSHA" quota="10" />
+			<giocatore nome="BERISHA" quota="10" />
+			<giocatore nome="BUFFON" quota="10" />
+			<giocatore nome="SIRIGU" quota="10" />
+			<giocatore nome="SPORTIELLO" quota="10" />
+			<giocatore nome="CONSIGLI" quota="9" />
+			<giocatore nome="SORRENTINO" quota="5" />
+			<giocatore nome="MIRANTE" quota="5" />
+			<giocatore nome="PERIN" quota="5" />
+			<giocatore nome="CORDAZ" quota="1" />
+			<giocatore nome="CRAGNO" quota="1" />
+			<giocatore nome="BELEC" quota="1" />
+			<giocatore nome="VIVIANO" quota="1" />
+			<giocatore nome="SCUFFET" quota="1" />
+			<giocatore nome="SKORUPSKI" quota="1" />
+			<giocatore nome="MERET" quota="1" />
+			<giocatore nome="NICOLAS" quota="1" />
+			<giocatore nome="GOMIS A" quota="1" />
+			<giocatore nome="SZCZESNY" quota="1" />
+			<giocatore nome="PUGGIONI" quota="1" />
+			<giocatore nome="GOLLINI" quota="1" />
+			<giocatore nome="DA COSTA" quota="1" />
+			<giocatore nome="SANTURRO" quota="1" />
+			<giocatore nome="CROSTA" quota="1" />
+			<giocatore nome="RAFAEL" quota="1" />
+			<giocatore nome="SECULIN" quota="1" />
+		</portieri>
+
+
+		<difensori crediti="50">
+			<giocatore nome="KOLAROV" quota="25" />
+			<giocatore nome="ALEX SANDRO" quota="17" />
+			<giocatore nome="KOULIBALY" quota="15" />
+			<giocatore nome="MANOLAS" quota="15" />
+			<giocatore nome="CANCELO" quota="13" />
+			<giocatore nome="CHIELLINI" quota="13" />
+			<giocatore nome="DE VRIJ" quota="13" />
+			<giocatore nome="DALBERT" quota="12" />
+			<giocatore nome="GHOULAM" quota="12" />
+			<giocatore nome="SKRINIAR" quota="12" />
+			<giocatore nome="BENATIA" quota="11" />
+			<giocatore nome="ALBIOL" quota="10" />
+			<giocatore nome="ASTORI" quota="10" />
+			<giocatore nome="BASTA" quota="10" />
+			<giocatore nome="FAZIO" quota="10" />
+			<giocatore nome="HYSAJ" quota="10" />
+			<giocatore nome="MASIELLO A" quota="10" />
+			<giocatore nome="MIRANDA" quota="10" />
+			<giocatore nome="MUSACCHIO" quota="10" />
+			<giocatore nome="N'KOULOU" quota="10" />
+			<giocatore nome="NUYTINCK" quota="10" />
+			<giocatore nome="PEZZELLA GER" quota="10" />
+			<giocatore nome="ROMAGNOLI A" quota="10" />
+			<giocatore nome="ROMULO" quota="10" />
+			<giocatore nome="RUGANI" quota="10" />
+			<giocatore nome="CALDARA" quota="9" />
+			<giocatore nome="KARSDORP" quota="9" />
+			<giocatore nome="LICHTSTEINER" quota="9" />
+			<giocatore nome="ACERBI" quota="8" />
+			<giocatore nome="ANDREOLLI" quota="8" />
+			<giocatore nome="BARRECA" quota="8" />
+			<giocatore nome="D'AMBROSIO" quota="8" />
+			<giocatore nome="DANILO" quota="8" />
+			<giocatore nome="GAMBERINI" quota="8" />
+			<giocatore nome="GASPAR" quota="8" />
+			<giocatore nome="LAZAAR" quota="8" />
+			<giocatore nome="LIROLA" quota="8" />
+			<giocatore nome="LYANCO" quota="8" />
+			<giocatore nome="PELUSO" quota="8" />
+			<giocatore nome="RADU" quota="8" />
+			<giocatore nome="SAMIR" quota="8" />
+			<giocatore nome="WIDMER" quota="8" />
+			<giocatore nome="HOWEDES" quota="7" />
+			<giocatore nome="RODRIGUEZ R" quota="7" />
+			<giocatore nome="BARZAGLI" quota="6" />
+			<giocatore nome="CACERES" quota="6" />
+			<giocatore nome="FERRARI A" quota="6" />
+			<giocatore nome="HEURTAUX" quota="6" />
+			<giocatore nome="SOUPRAYEN" quota="6" />
+			<giocatore nome="VAN DER WIEL" quota="6" />
+			<giocatore nome="BIRASCHI" quota="5" />
+			<giocatore nome="BONUCCI" quota="5" />
+			<giocatore nome="BRUNO PERES" quota="5" />
+			<giocatore nome="CABRERA" quota="5" />
+			<giocatore nome="CACCIATORE" quota="5" />
+			<giocatore nome="CANNAVARO" quota="5" />
+			<giocatore nome="DE SILVESTRI" quota="5" />
+			<giocatore nome="FERRARI G" quota="5" />
+			<giocatore nome="GOBBI" quota="5" />
+			<giocatore nome="IZZO" quota="5" />
+			<giocatore nome="JUAN JESUS" quota="5" />
+			<giocatore nome="MAKSIMOVIC" quota="5" />
+			<giocatore nome="MARTELLA" quota="5" />
+			<giocatore nome="MURRU" quota="5" />
+			<giocatore nome="PADOIN" quota="5" />
+			<giocatore nome="REGINI" quota="5" />
+			<giocatore nome="ROSSETTINI" quota="5" />
+			<giocatore nome="SAMPIRISI" quota="5" />
+			<giocatore nome="VICARI" quota="5" />
+			<giocatore nome="WALLACE" quota="5" />
+			<giocatore nome="TOLOI" quota="4" />
+			<giocatore nome="HATEBOER" quota="1" />
+			<giocatore nome="HECTOR MORENO" quota="1" />
+			<giocatore nome="LUCIONI" quota="1" />
+			<giocatore nome="LUKAKU" quota="1" />
+			<giocatore nome="MASINA" quota="1" />
+			<giocatore nome="PISACANE" quota="1" />
+			<giocatore nome="SILVESTRE" quota="1" />
+			<giocatore nome="VITOR HUGO" quota="1" />
+			<giocatore nome="CONTI" quota="1" />
+		</difensori>
+
+
+		<centrocampisti crediti="80">
+			<giocatore nome="PEROTTI" quota="29" />
+			<giocatore nome="PERISIC" quota="27" />
+			<giocatore nome="PJANIC" quota="27" />
+			<giocatore nome="CALHANOGLU" quota="24" />
+			<giocatore nome="BIGLIA" quota="22" />
+			<giocatore nome="CHIESA" quota="22" />
+			<giocatore nome="KESSIE'" quota="22" />
+			<giocatore nome="BIRSA" quota="21" />
+			<giocatore nome="BORJA VALERO" quota="21" />
+			<giocatore nome="FLORENZI" quota="20" />
+			<giocatore nome="CRISTANTE" quota="19" />
+			<giocatore nome="DI FRANCESCO F" quota="19" />
+			<giocatore nome="NAINGGOLAN" quota="19" />
+			<giocatore nome="SUSO" quota="19" />
+			<giocatore nome="CANDREVA" quota="18" />
+			<giocatore nome="JOAO MARIO" quota="18" />
+			<giocatore nome="PELLEGRINI" quota="18" />
+			<giocatore nome="FELIPE ANDERSON" quota="17" />
+			<giocatore nome="ZIELINSKI" quota="17" />
+			<giocatore nome="GIL DIAS" quota="16" />
+			<giocatore nome="VERDI" quota="16" />
+			<giocatore nome="BADELJ" quota="15" />
+			<giocatore nome="BONAVENTURA" quota="15" />
+			<giocatore nome="DOUGLAS COSTA" quota="15" />
+			<giocatore nome="JOAO PEDRO" quota="15" />
+			<giocatore nome="MATUIDI" quota="15" />
+			<giocatore nome="MILINKOVIC-SAVIC" quota="15" />
+			<giocatore nome="RAMIREZ" quota="14" />
+			<giocatore nome="CUADRADO" quota="12" />
+			<giocatore nome="DE PAUL" quota="12" />
+			<giocatore nome="HAMSIK" quota="12" />
+			<giocatore nome="KHEDIRA" quota="12" />
+			<giocatore nome="KREJCI" quota="12" />
+			<giocatore nome="BERNARDESCHI" quota="11" />
+			<giocatore nome="UNDER" quota="11" />
+			<giocatore nome="ALLAN" quota="10" />
+			<giocatore nome="BASELLI" quota="10" />
+			<giocatore nome="CASTRO" quota="10" />
+			<giocatore nome="CENTURION" quota="10" />
+			<giocatore nome="CICIRETTI" quota="10" />
+			<giocatore nome="EYSSERIC" quota="10" />
+			<giocatore nome="FOFANA" quota="10" />
+			<giocatore nome="GAGLIARDINI" quota="10" />
+			<giocatore nome="ILICIC" quota="10" />
+			<giocatore nome="IONITA" quota="10" />
+			<giocatore nome="JANKTO" quota="10" />
+			<giocatore nome="KURTIC" quota="10" />
+			<giocatore nome="LAZZARI M" quota="10" />
+			<giocatore nome="LUCAS LEIVA" quota="10" />
+			<giocatore nome="LULIC" quota="10" />
+			<giocatore nome="PAROLO" quota="10" />
+			<giocatore nome="SAPONARA" quota="10" />
+			<giocatore nome="STROOTMAN" quota="10" />
+			<giocatore nome="VECINO" quota="10" />
+			<giocatore nome="VERETOUT" quota="10" />
+			<giocatore nome="BENASSI" quota="9" />
+			<giocatore nome="DE ROON" quota="9" />
+			<giocatore nome="DE ROSSI" quota="9" />
+			<giocatore nome="FREULER" quota="9" />
+			<giocatore nome="MARCHISIO" quota="9" />
+			<giocatore nome="PRAET" quota="9" />
+			<giocatore nome="TAIDER" quota="9" />
+			<giocatore nome="ALVAREZ R" quota="7" />
+			<giocatore nome="BERTOLACCI" quota="7" />
+			<giocatore nome="BROZOVIC" quota="7" />
+			<giocatore nome="D'ALESSANDRO" quota="7" />
+			<giocatore nome="GONALONS" quota="7" />
+			<giocatore nome="LAXALT" quota="7" />
+			<giocatore nome="LAZOVIC" quota="7" />
+			<giocatore nome="MISSIROLI" quota="7" />
+			<giocatore nome="TORREIRA" quota="7" />
+			<giocatore nome="BERENGUER" quota="6" />
+			<giocatore nome="BESSA" quota="6" />
+			<giocatore nome="HALLFREDSSON" quota="6" />
+			<giocatore nome="SENSI" quota="6" />
+			<giocatore nome="SPINAZZOLA" quota="6" />
+			<giocatore nome="CIGARINI" quota="5" />
+			<giocatore nome="DONSAH" quota="5" />
+			<giocatore nome="NALINI" quota="5" />
+			<giocatore nome="POLI" quota="5" />
+		</centrocampisti>
+
+
+		<attaccanti crediti="115">
+			<giocatore nome="ICARDI" quota="80" />
+			<giocatore nome="MERTENS" quota="60" />
+			<giocatore nome="DZEKO" quota="55" />
+			<giocatore nome="HIGUAIN" quota="55" />
+			<giocatore nome="DYBALA" quota="52" />
+			<giocatore nome="BELOTTI" quota="45" />
+			<giocatore nome="IMMOBILE" quota="45" />
+			<giocatore nome="SIMEONE" quota="29" />
+			<giocatore nome="GOMEZ A" quota="26" />
+			<giocatore nome="ANDRE' SILVA" quota="25" />
+			<giocatore nome="QUAGLIARELLA" quota="25" />
+			<giocatore nome="ZAPATA D" quota="24" />
+			<giocatore nome="LJAJIC" quota="22" />
+			<giocatore nome="BERARDI" quota="21" />
+			<giocatore nome="LASAGNA" quota="21" />
+			<giocatore nome="CALLEJON" quota="20" />
+			<giocatore nome="IAGO FALQUE" quota="20" />
+			<giocatore nome="NIANG" quota="20" />
+			<giocatore nome="THEREAU" quota="20" />
+			<giocatore nome="PAVOLETTI" quota="19" />
+			<giocatore nome="FALCINELLI" quota="17" />
+			<giocatore nome="PAZZINI" quota="17" />
+			<giocatore nome="MILIK" quota="16" />
+			<giocatore nome="NANI" quota="16" />
+			<giocatore nome="BAJIC" quota="15" />
+			<giocatore nome="DESTRO" quota="15" />
+			<giocatore nome="INGLESE" quota="15" />
+			<giocatore nome="PETAGNA" quota="15" />
+			<giocatore nome="INSIGNE" quota="14" />
+			<giocatore nome="ARMENTEROS" quota="13" />
+			<giocatore nome="BABACAR" quota="13" />
+			<giocatore nome="CAPRARI" quota="13" />
+			<giocatore nome="CERCI" quota="13" />
+			<giocatore nome="FARIAS" quota="13" />
+			<giocatore nome="PALOSCHI" quota="13" />
+			<giocatore nome="POLITANO" quota="13" />
+			<giocatore nome="SAU" quota="13" />
+			<giocatore nome="ANTENUCCI" quota="12" />
+			<giocatore nome="BORRIELLO" quota="12" />
+			<giocatore nome="BUDIMIR" quota="12" />
+			<giocatore nome="CORNELIUS" quota="12" />
+			<giocatore nome="EDER" quota="12" />
+			<giocatore nome="MANDZUKIC" quota="12" />
+			<giocatore nome="OUNAS" quota="12" />
+			<giocatore nome="CAICEDO" quota="11" />
+			<giocatore nome="MATRI" quota="11" />
+			<giocatore nome="KALINIC" quota="10" />
+			<giocatore nome="PALACIO" quota="10" />
+			<giocatore nome="PERICA" quota="10" />
+			<giocatore nome="PUCCIARELLI" quota="10" />
+			<giocatore nome="TROTTA" quota="10" />
+			<giocatore nome="KARAMOH" quota="9" />
+			<giocatore nome="PELLISSIER" quota="9" />
+			<giocatore nome="RAGUSA" quota="9" />
+			<giocatore nome="VERDE" quota="9" />
+			<giocatore nome="BORINI" quota="8" />
+			<giocatore nome="SCHICK" quota="6" />
+			<giocatore nome="DEFREL" quota="5" />
+			<giocatore nome="EL SHAARAWY" quota="4" />
+			<giocatore nome="LAPADULA" quota="1" />
+		</attaccanti>
+
+	</proposta>
+	<proposta riversacrediti="true" squadra="S5">
+		<portieri crediti="10">
+			<giocatore nome="HANDANOVIC" quota="8" />
+			<giocatore nome="BUFFON" quota="8" />
+			<giocatore nome="REINA" quota="8" />
+			<giocatore nome="STRAKOSHA" quota="8" />
+			<giocatore nome="ALISSON" quota="8" />
+			<giocatore nome="DONNARUMMA G" quota="8" />
+			<giocatore nome="SIRIGU" quota="8" />
+			<giocatore nome="SPORTIELLO" quota="7" />
+			<giocatore nome="PERIN" quota="7" />
+			<giocatore nome="BERISHA" quota="7" />
+			<giocatore nome="CRAGNO" quota="6" />
+			<giocatore nome="MIRANTE" quota="6" />
+			<giocatore nome="CORDAZ" quota="5" />
+			<giocatore nome="VIVIANO" quota="5" />
+			<giocatore nome="SORRENTINO" quota="5" />
+			<giocatore nome="CONSIGLI" quota="5" />
+			<giocatore nome="SCUFFET" quota="5" />
+			<giocatore nome="GOMIS A" quota="5" />
+			<giocatore nome="NICOLAS" quota="4" />
+			<giocatore nome="BELEC" quota="4" />
+			<giocatore nome="PADELLI" quota="1" />
+			<giocatore nome="SZCZESNY" quota="1" />
+			<giocatore nome="GOLLINI" quota="1" />
+			<giocatore nome="PUGGIONI" quota="1" />
+			<giocatore nome="LAMANNA" quota="1" />
+			<giocatore nome="MARCHETTI" quota="1" />
+			<giocatore nome="PEGOLO" quota="1" />
+			<giocatore nome="SEPE" quota="1" />
+			<giocatore nome="SKORUPSKI" quota="1" />
+			<giocatore nome="DA COSTA" quota="1" />
+		</portieri>
+
+
+		<difensori crediti="40">
+			<giocatore nome="SKRINIAR" quota="25" />
+			<giocatore nome="KOULIBALY" quota="20" />
+			<giocatore nome="ACERBI" quota="20" />
+			<giocatore nome="DE VRIJ" quota="20" />
+			<giocatore nome="KOLAROV" quota="20" />
+			<giocatore nome="MANOLAS" quota="20" />
+			<giocatore nome="GHOULAM" quota="20" />
+			<giocatore nome="ALBIOL" quota="20" />
+			<giocatore nome="BONUCCI" quota="15" />
+			<giocatore nome="ALEX SANDRO" quota="15" />
+			<giocatore nome="CHIELLINI" quota="15" />
+			<giocatore nome="MIRANDA" quota="15" />
+			<giocatore nome="FAZIO" quota="15" />
+			<giocatore nome="N'KOULOU" quota="10" />
+			<giocatore nome="BRUNO PERES" quota="10" />
+			<giocatore nome="ASTORI" quota="10" />
+			<giocatore nome="MASIELLO A" quota="10" />
+			<giocatore nome="DALBERT" quota="10" />
+			<giocatore nome="NUYTINCK" quota="10" />
+			<giocatore nome="ROMULO" quota="10" />
+			<giocatore nome="ROMAGNOLI A" quota="10" />
+			<giocatore nome="BARRECA" quota="10" />
+			<giocatore nome="BARZAGLI" quota="10" />
+			<giocatore nome="LICHTSTEINER" quota="9" />
+			<giocatore nome="RODRIGUEZ R" quota="9" />
+			<giocatore nome="PEZZELLA GER" quota="8" />
+			<giocatore nome="BASTA" quota="8" />
+			<giocatore nome="RADU" quota="8" />
+			<giocatore nome="D'AMBROSIO" quota="8" />
+			<giocatore nome="GASPAR" quota="8" />
+			<giocatore nome="GAMBERINI" quota="8" />
+			<giocatore nome="ANDREOLLI" quota="8" />
+			<giocatore nome="DANILO" quota="8" />
+			<giocatore nome="LUKAKU" quota="8" />
+			<giocatore nome="PISACANE" quota="6" />
+			<giocatore nome="MASINA" quota="6" />
+			<giocatore nome="CALDARA" quota="5" />
+			<giocatore nome="BENATIA" quota="5" />
+			<giocatore nome="HOWEDES" quota="5" />
+			<giocatore nome="MUSACCHIO" quota="5" />
+			<giocatore nome="RUGANI" quota="5" />
+			<giocatore nome="CANCELO" quota="5" />
+			<giocatore nome="SAMIR" quota="5" />
+			<giocatore nome="LIROLA" quota="5" />
+			<giocatore nome="SILVESTRE" quota="5" />
+			<giocatore nome="HYSAJ" quota="5" />
+			<giocatore nome="PADOIN" quota="5" />
+			<giocatore nome="PELUSO" quota="3" />
+			<giocatore nome="LUCIONI" quota="3" />
+			<giocatore nome="HATEBOER" quota="3" />
+			<giocatore nome="TOLOI" quota="3" />
+			<giocatore nome="LAZAAR" quota="3" />
+			<giocatore nome="CACERES" quota="3" />
+			<giocatore nome="FERRARI A" quota="3" />
+			<giocatore nome="HEURTAUX" quota="3" />
+			<giocatore nome="SOUPRAYEN" quota="3" />
+			<giocatore nome="DE SILVESTRI" quota="3" />
+			<giocatore nome="ROSSETTINI" quota="3" />
+			<giocatore nome="VICARI" quota="3" />
+			<giocatore nome="CANNAVARO" quota="3" />
+			<giocatore nome="FERRARI G" quota="3" />
+			<giocatore nome="MURRU" quota="3" />
+			<giocatore nome="REGINI" quota="3" />
+			<giocatore nome="JUAN JESUS" quota="3" />
+			<giocatore nome="SAMPIRISI" quota="3" />
+			<giocatore nome="CACCIATORE" quota="3" />
+			<giocatore nome="GOBBI" quota="3" />
+			<giocatore nome="WALLACE" quota="2" />
+			<giocatore nome="BIRASCHI" quota="2" />
+			<giocatore nome="CABRERA" quota="2" />
+			<giocatore nome="MARTELLA" quota="2" />
+			<giocatore nome="VAISANEN" quota="1" />
+			<giocatore nome="MORETTI" quota="1" />
+			<giocatore nome="GENTILETTI" quota="1" />
+			<giocatore nome="VENUTI" quota="1" />
+			<giocatore nome="BIRAGHI" quota="1" />
+			<giocatore nome="NAGATOMO" quota="1" />
+			<giocatore nome="ADJAPONG" quota="1" />
+			<giocatore nome="DE MAIO" quota="1" />
+			<giocatore nome="AJETI" quota="1" />
+		</difensori>
+
+
+		<centrocampisti crediti="60">
+			<giocatore nome="PERISIC" quota="40" />
+			<giocatore nome="NAINGGOLAN" quota="35" />
+			<giocatore nome="SUSO" quota="35" />
+			<giocatore nome="HAMSIK" quota="30" />
+			<giocatore nome="MILINKOVIC-SAVIC" quota="30" />
+			<giocatore nome="CHIESA" quota="30" />
+			<giocatore nome="PEROTTI" quota="30" />
+			<giocatore nome="PJANIC" quota="25" />
+			<giocatore nome="ZIELINSKI" quota="20" />
+			<giocatore nome="CANDREVA" quota="20" />
+			<giocatore nome="BONAVENTURA" quota="20" />
+			<giocatore nome="STROOTMAN" quota="20" />
+			<giocatore nome="JOAO PEDRO" quota="15" />
+			<giocatore nome="DOUGLAS COSTA" quota="15" />
+			<giocatore nome="MATUIDI" quota="15" />
+			<giocatore nome="BIRSA" quota="15" />
+			<giocatore nome="RAMIREZ" quota="15" />
+			<giocatore nome="CUADRADO" quota="15" />
+			<giocatore nome="KHEDIRA" quota="15" />
+			<giocatore nome="VECINO" quota="15" />
+			<giocatore nome="PAROLO" quota="15" />
+			<giocatore nome="JANKTO" quota="15" />
+			<giocatore nome="DI FRANCESCO F" quota="15" />
+			<giocatore nome="BORJA VALERO" quota="15" />
+			<giocatore nome="JOAO MARIO" quota="15" />
+			<giocatore nome="ALLAN" quota="15" />
+			<giocatore nome="LUIS ALBERTO" quota="15" />
+			<giocatore nome="VERDI" quota="10" />
+			<giocatore nome="DE PAUL" quota="10" />
+			<giocatore nome="CASTRO" quota="10" />
+			<giocatore nome="VERETOUT" quota="10" />
+			<giocatore nome="GAGLIARDINI" quota="10" />
+			<giocatore nome="LUCAS LEIVA" quota="10" />
+			<giocatore nome="BIGLIA" quota="10" />
+			<giocatore nome="FLORENZI" quota="10" />
+			<giocatore nome="DE ROSSI" quota="10" />
+			<giocatore nome="UNDER" quota="10" />
+			<giocatore nome="GIL DIAS" quota="10" />
+			<giocatore nome="LAXALT" quota="10" />
+			<giocatore nome="BROZOVIC" quota="10" />
+			<giocatore nome="DONSAH" quota="10" />
+			<giocatore nome="BARELLA" quota="10" />
+			<giocatore nome="SENSI" quota="10" />
+			<giocatore nome="BENASSI" quota="9" />
+			<giocatore nome="LULIC" quota="8" />
+			<giocatore nome="KESSIE'" quota="8" />
+			<giocatore nome="LAZZARI M" quota="8" />
+			<giocatore nome="PRAET" quota="7" />
+			<giocatore nome="DE ROON" quota="7" />
+			<giocatore nome="BESSA" quota="7" />
+			<giocatore nome="BERNARDESCHI" quota="5" />
+			<giocatore nome="CALHANOGLU" quota="5" />
+			<giocatore nome="ILICIC" quota="5" />
+			<giocatore nome="CICIRETTI" quota="5" />
+			<giocatore nome="BASELLI" quota="5" />
+			<giocatore nome="KURTIC" quota="5" />
+			<giocatore nome="IONITA" quota="5" />
+			<giocatore nome="PELLEGRINI" quota="5" />
+			<giocatore nome="LAZZARI M" quota="5" />
+			<giocatore nome="FREULER" quota="5" />
+			<giocatore nome="TAIDER" quota="5" />
+			<giocatore nome="BADELJ" quota="5" />
+			<giocatore nome="HALLFREDSSON" quota="5" />
+			<giocatore nome="POLI" quota="5" />
+			<giocatore nome="EYSSERIC" quota="3" />
+			<giocatore nome="FOFANA" quota="3" />
+			<giocatore nome="CRISTANTE" quota="3" />
+			<giocatore nome="CENTURION" quota="3" />
+			<giocatore nome="MARCHISIO" quota="3" />
+			<giocatore nome="BERTOLACCI" quota="3" />
+			<giocatore nome="LAZOVIC" quota="3" />
+			<giocatore nome="DIAWARA" quota="3" />
+			<giocatore nome="ALVAREZ R" quota="3" />
+			<giocatore nome="TORREIRA" quota="3" />
+			<giocatore nome="MISSIROLI" quota="3" />
+			<giocatore nome="SPINAZZOLA" quota="3" />
+			<giocatore nome="KREJCI" quota="3" />
+			<giocatore nome="CIGARINI" quota="3" />
+			<giocatore nome="FELIPE ANDERSON" quota="2" />
+			<giocatore nome="SCHIATTARELLA" quota="1" />
+		</centrocampisti>
+
+
+		<attaccanti crediti="150">
+			<giocatore nome="ICARDI" quota="110" />
+			<giocatore nome="HIGUAIN" quota="100" />
+			<giocatore nome="MERTENS" quota="100" />
+			<giocatore nome="DYBALA" quota="100" />
+			<giocatore nome="IMMOBILE" quota="95" />
+			<giocatore nome="BELOTTI" quota="90" />
+			<giocatore nome="DZEKO" quota="90" />
+			<giocatore nome="INSIGNE" quota="80" />
+			<giocatore nome="CALLEJON" quota="80" />
+			<giocatore nome="KALINIC" quota="75" />
+			<giocatore nome="SIMEONE" quota="70" />
+			<giocatore nome="BERARDI" quota="65" />
+			<giocatore nome="GOMEZ A" quota="50" />
+			<giocatore nome="SCHICK" quota="50" />
+			<giocatore nome="MANDZUKIC" quota="50" />
+			<giocatore nome="BORRIELLO" quota="50" />
+			<giocatore nome="ZAPATA D" quota="50" />
+			<giocatore nome="THEREAU" quota="30" />
+			<giocatore nome="MILIK" quota="25" />
+			<giocatore nome="PAVOLETTI" quota="25" />
+			<giocatore nome="FALCINELLI" quota="20" />
+			<giocatore nome="QUAGLIARELLA" quota="20" />
+			<giocatore nome="LJAJIC" quota="20" />
+			<giocatore nome="PAZZINI" quota="20" />
+			<giocatore nome="IAGO FALQUE" quota="20" />
+			<giocatore nome="LASAGNA" quota="20" />
+			<giocatore nome="CORNELIUS" quota="20" />
+			<giocatore nome="BUDIMIR" quota="20" />
+			<giocatore nome="PETAGNA" quota="15" />
+			<giocatore nome="SAU" quota="15" />
+			<giocatore nome="PALACIO" quota="15" />
+			<giocatore nome="DEFREL" quota="10" />
+			<giocatore nome="ANDRE' SILVA" quota="10" />
+			<giocatore nome="INGLESE" quota="10" />
+			<giocatore nome="DESTRO" quota="10" />
+			<giocatore nome="CAPRARI" quota="10" />
+			<giocatore nome="CERCI" quota="10" />
+			<giocatore nome="BORINI" quota="10" />
+			<giocatore nome="PELLEGRI" quota="10" />
+			<giocatore nome="CUTRONE" quota="10" />
+			<giocatore nome="NANI" quota="5" />
+			<giocatore nome="EL SHAARAWY" quota="5" />
+			<giocatore nome="POLITANO" quota="5" />
+			<giocatore nome="BABACAR" quota="5" />
+			<giocatore nome="EDER" quota="5" />
+			<giocatore nome="KARAMOH" quota="5" />
+			<giocatore nome="FARIAS" quota="3" />
+			<giocatore nome="PUCCIARELLI" quota="3" />
+			<giocatore nome="PELLISSIER" quota="3" />
+			<giocatore nome="RAGUSA" quota="3" />
+			<giocatore nome="PALOSCHI" quota="3" />
+			<giocatore nome="MATRI" quota="2" />
+			<giocatore nome="NIANG" quota="2" />
+			<giocatore nome="GALABINOV" quota="2" />
+			<giocatore nome="PUSCAS" quota="2" />
+			<giocatore nome="CODA M" quota="1" />
+			<giocatore nome="VERDE" quota="1" />
+			<giocatore nome="MAXI LOPEZ" quota="1" />
+			<giocatore nome="PERICA" quota="1" />
+			<giocatore nome="BOYE'" quota="1" />
+		</attaccanti>
+
+	</proposta>
+	<proposta riversacrediti="true" squadra="S6">
+		<portieri crediti="21">
+			<giocatore nome="BUFFON" quota="19" />
+			<giocatore nome="SZCZESNY" quota="2" />
+			<giocatore nome="ALISSON" quota="1" />
+			<giocatore nome="BELEC" quota="1" />
+			<giocatore nome="BERISHA" quota="1" />
+			<giocatore nome="CONSIGLI" quota="1" />
+			<giocatore nome="CORDAZ" quota="1" />
+			<giocatore nome="CRAGNO" quota="1" />
+			<giocatore nome="CROSTA" quota="1" />
+			<giocatore nome="DA COSTA" quota="1" />
+			<giocatore nome="DONNARUMMA G" quota="1" />
+			<giocatore nome="GOLLINI" quota="1" />
+			<giocatore nome="GOMIS A" quota="1" />
+			<giocatore nome="HANDANOVIC" quota="1" />
+			<giocatore nome="MARCHETTI" quota="1" />
+			<giocatore nome="MERET" quota="1" />
+			<giocatore nome="MIRANTE" quota="1" />
+			<giocatore nome="NICOLAS" quota="1" />
+			<giocatore nome="PERIN" quota="1" />
+			<giocatore nome="PUGGIONI" quota="1" />
+			<giocatore nome="RAFAEL" quota="1" />
+			<giocatore nome="REINA" quota="1" />
+			<giocatore nome="SANTURRO" quota="1" />
+			<giocatore nome="SCUFFET" quota="1" />
+			<giocatore nome="SECULIN" quota="1" />
+			<giocatore nome="SIRIGU" quota="1" />
+			<giocatore nome="SORRENTINO" quota="1" />
+			<giocatore nome="SPORTIELLO" quota="1" />
+			<giocatore nome="STRAKOSHA" quota="1" />
+			<giocatore nome="VIVIANO" quota="1" />
+		</portieri>
+
+
+		<difensori crediti="59">
+			<giocatore nome="ALEX SANDRO" quota="12" />
+			<giocatore nome="BONUCCI" quota="9" />
+			<giocatore nome="DE VRIJ" quota="8" />
+			<giocatore nome="KOULIBALY" quota="8" />
+			<giocatore nome="CALDARA" quota="7" />
+			<giocatore nome="RODRIGUEZ R" quota="6" />
+			<giocatore nome="PEZZELLA GER" quota="4" />
+			<giocatore nome="CANNAVARO" quota="3" />
+			<giocatore nome="ROMAGNOLI A" quota="3" />
+			<giocatore nome="ACERBI" quota="1" />
+			<giocatore nome="ALBIOL" quota="1" />
+			<giocatore nome="ANDREOLLI" quota="1" />
+			<giocatore nome="ASTORI" quota="1" />
+			<giocatore nome="BARRECA" quota="1" />
+			<giocatore nome="BARZAGLI" quota="1" />
+			<giocatore nome="BASTA" quota="1" />
+			<giocatore nome="BENATIA" quota="1" />
+			<giocatore nome="BIRASCHI" quota="1" />
+			<giocatore nome="BRUNO PERES" quota="1" />
+			<giocatore nome="CABRERA" quota="1" />
+			<giocatore nome="CACCIATORE" quota="1" />
+			<giocatore nome="CACERES" quota="1" />
+			<giocatore nome="CANCELO" quota="1" />
+			<giocatore nome="CHIELLINI" quota="1" />
+			<giocatore nome="CONTI" quota="1" />
+			<giocatore nome="DALBERT" quota="1" />
+			<giocatore nome="D'AMBROSIO" quota="1" />
+			<giocatore nome="DANILO" quota="1" />
+			<giocatore nome="DE SILVESTRI" quota="1" />
+			<giocatore nome="FAZIO" quota="1" />
+			<giocatore nome="FERRARI A" quota="1" />
+			<giocatore nome="FERRARI G" quota="1" />
+			<giocatore nome="GAMBERINI" quota="1" />
+			<giocatore nome="GASPAR" quota="1" />
+			<giocatore nome="GHOULAM" quota="1" />
+			<giocatore nome="GOBBI" quota="1" />
+			<giocatore nome="HATEBOER" quota="1" />
+			<giocatore nome="HECTOR MORENO" quota="1" />
+			<giocatore nome="HEURTAUX" quota="1" />
+			<giocatore nome="HOWEDES" quota="1" />
+			<giocatore nome="HYSAJ" quota="1" />
+			<giocatore nome="IZZO" quota="1" />
+			<giocatore nome="JUAN JESUS" quota="1" />
+			<giocatore nome="KARSDORP" quota="1" />
+			<giocatore nome="KOLAROV" quota="1" />
+			<giocatore nome="LAZAAR" quota="1" />
+			<giocatore nome="LICHTSTEINER" quota="1" />
+			<giocatore nome="LIROLA" quota="1" />
+			<giocatore nome="LUCIONI" quota="1" />
+			<giocatore nome="LUKAKU" quota="1" />
+			<giocatore nome="LYANCO" quota="1" />
+			<giocatore nome="MAKSIMOVIC" quota="1" />
+			<giocatore nome="MANOLAS" quota="1" />
+			<giocatore nome="MARTELLA" quota="1" />
+			<giocatore nome="MASIELLO A" quota="1" />
+			<giocatore nome="MASINA" quota="1" />
+			<giocatore nome="MIRANDA" quota="1" />
+			<giocatore nome="MURRU" quota="1" />
+			<giocatore nome="MUSACCHIO" quota="1" />
+			<giocatore nome="N'KOULOU" quota="1" />
+			<giocatore nome="NUYTINCK" quota="1" />
+			<giocatore nome="PADOIN" quota="1" />
+			<giocatore nome="PELUSO" quota="1" />
+			<giocatore nome="PISACANE" quota="1" />
+			<giocatore nome="RADU" quota="1" />
+			<giocatore nome="REGINI" quota="1" />
+			<giocatore nome="ROMULO" quota="1" />
+			<giocatore nome="ROSSETTINI" quota="1" />
+			<giocatore nome="RUGANI" quota="1" />
+			<giocatore nome="SAMIR" quota="1" />
+			<giocatore nome="SAMPIRISI" quota="1" />
+			<giocatore nome="SILVESTRE" quota="1" />
+			<giocatore nome="SKRINIAR" quota="1" />
+			<giocatore nome="SOUPRAYEN" quota="1" />
+			<giocatore nome="TOLOI" quota="1" />
+			<giocatore nome="VAN DER WIEL" quota="1" />
+			<giocatore nome="VICARI" quota="1" />
+			<giocatore nome="VITOR HUGO" quota="1" />
+			<giocatore nome="WALLACE" quota="1" />
+			<giocatore nome="WIDMER" quota="1" />
+		</difensori>
+
+
+		<centrocampisti crediti="80">
+			<giocatore nome="PJANIC" quota="20" />
+			<giocatore nome="MILINKOVIC-SAVIC" quota="17" />
+			<giocatore nome="CUADRADO" quota="15" />
+			<giocatore nome="HAMSIK" quota="15" />
+			<giocatore nome="VERDI" quota="11" />
+			<giocatore nome="KESSIE'" quota="8" />
+			<giocatore nome="ILICIC" quota="5" />
+			<giocatore nome="SPINAZZOLA" quota="5" />
+			<giocatore nome="POLI" quota="4" />
+			<giocatore nome="ALLAN" quota="1" />
+			<giocatore nome="ALVAREZ R" quota="1" />
+			<giocatore nome="BADELJ" quota="1" />
+			<giocatore nome="BASELLI" quota="1" />
+			<giocatore nome="BENASSI" quota="1" />
+			<giocatore nome="BERENGUER" quota="1" />
+			<giocatore nome="BERNARDESCHI" quota="1" />
+			<giocatore nome="BERTOLACCI" quota="1" />
+			<giocatore nome="BESSA" quota="1" />
+			<giocatore nome="BIGLIA" quota="1" />
+			<giocatore nome="BIRSA" quota="1" />
+			<giocatore nome="BONAVENTURA" quota="1" />
+			<giocatore nome="BORJA VALERO" quota="1" />
+			<giocatore nome="BROZOVIC" quota="1" />
+			<giocatore nome="CALHANOGLU" quota="1" />
+			<giocatore nome="CANDREVA" quota="1" />
+			<giocatore nome="CASTRO" quota="1" />
+			<giocatore nome="CENTURION" quota="1" />
+			<giocatore nome="CHIESA" quota="1" />
+			<giocatore nome="CICIRETTI" quota="1" />
+			<giocatore nome="CIGARINI" quota="1" />
+			<giocatore nome="CRISTANTE" quota="1" />
+			<giocatore nome="D'ALESSANDRO" quota="1" />
+			<giocatore nome="DE PAUL" quota="1" />
+			<giocatore nome="DE ROON" quota="1" />
+			<giocatore nome="DE ROSSI" quota="1" />
+			<giocatore nome="DI FRANCESCO F" quota="1" />
+			<giocatore nome="DIAWARA" quota="1" />
+			<giocatore nome="DONSAH" quota="1" />
+			<giocatore nome="DOUGLAS COSTA" quota="1" />
+			<giocatore nome="EYSSERIC" quota="1" />
+			<giocatore nome="FELIPE ANDERSON" quota="1" />
+			<giocatore nome="FLORENZI" quota="1" />
+			<giocatore nome="FOFANA" quota="1" />
+			<giocatore nome="FREULER" quota="1" />
+			<giocatore nome="GAGLIARDINI" quota="1" />
+			<giocatore nome="GIL DIAS" quota="1" />
+			<giocatore nome="HALLFREDSSON" quota="1" />
+			<giocatore nome="IONITA" quota="1" />
+			<giocatore nome="JANKTO" quota="1" />
+			<giocatore nome="JOAO MARIO" quota="1" />
+			<giocatore nome="JOAO PEDRO" quota="1" />
+			<giocatore nome="KHEDIRA" quota="1" />
+			<giocatore nome="KREJCI" quota="1" />
+			<giocatore nome="KURTIC" quota="1" />
+			<giocatore nome="LAXALT" quota="1" />
+			<giocatore nome="LAZOVIC" quota="1" />
+			<giocatore nome="LAZZARI M" quota="1" />
+			<giocatore nome="LUCAS LEIVA" quota="1" />
+			<giocatore nome="LULIC" quota="1" />
+			<giocatore nome="MARCHISIO" quota="1" />
+			<giocatore nome="MATUIDI" quota="1" />
+			<giocatore nome="MISSIROLI" quota="1" />
+			<giocatore nome="NAINGGOLAN" quota="1" />
+			<giocatore nome="NALINI" quota="1" />
+			<giocatore nome="PAROLO" quota="1" />
+			<giocatore nome="PELLEGRINI" quota="1" />
+			<giocatore nome="PERISIC" quota="1" />
+			<giocatore nome="PEROTTI" quota="1" />
+			<giocatore nome="PRAET" quota="1" />
+			<giocatore nome="RAMIREZ" quota="1" />
+			<giocatore nome="SAPONARA" quota="1" />
+			<giocatore nome="SENSI" quota="1" />
+			<giocatore nome="STROOTMAN" quota="1" />
+			<giocatore nome="SUSO" quota="1" />
+			<giocatore nome="TAIDER" quota="1" />
+			<giocatore nome="TORREIRA" quota="1" />
+			<giocatore nome="UNDER" quota="1" />
+			<giocatore nome="VECINO" quota="1" />
+			<giocatore nome="VERETOUT" quota="1" />
+			<giocatore nome="ZIELINSKI" quota="1" />
+		</centrocampisti>
+
+
+		<attaccanti crediti="100">
+			<giocatore nome="DYBALA" quota="40" />
+			<giocatore nome="IMMOBILE" quota="27" />
+			<giocatore nome="QUAGLIARELLA" quota="17" />
+			<giocatore nome="SIMEONE" quota="4" />
+			<giocatore nome="ANDRE' SILVA" quota="4" />
+			<giocatore nome="BORRIELLO" quota="3" />
+			<giocatore nome="PELLEGRI" quota="3" />
+			<giocatore nome="PALACIO" quota="2" />
+			<giocatore nome="HIGUAIN" quota="1" />
+			<giocatore nome="ICARDI" quota="1" />
+			<giocatore nome="MERTENS" quota="1" />
+			<giocatore nome="BELOTTI" quota="1" />
+			<giocatore nome="DZEKO" quota="1" />
+			<giocatore nome="INSIGNE" quota="1" />
+			<giocatore nome="CALLEJON" quota="1" />
+			<giocatore nome="GOMEZ A" quota="1" />
+			<giocatore nome="KALINIC" quota="1" />
+			<giocatore nome="THEREAU" quota="1" />
+			<giocatore nome="FALCINELLI" quota="1" />
+			<giocatore nome="LJAJIC" quota="1" />
+			<giocatore nome="SCHICK" quota="1" />
+			<giocatore nome="MANDZUKIC" quota="1" />
+			<giocatore nome="PAZZINI" quota="1" />
+			<giocatore nome="IAGO FALQUE" quota="1" />
+			<giocatore nome="BERARDI" quota="1" />
+			<giocatore nome="NANI" quota="1" />
+			<giocatore nome="MILIK" quota="1" />
+			<giocatore nome="LAPADULA" quota="1" />
+			<giocatore nome="DEFREL" quota="1" />
+			<giocatore nome="EL SHAARAWY" quota="1" />
+			<giocatore nome="ZAPATA D" quota="1" />
+			<giocatore nome="INGLESE" quota="1" />
+			<giocatore nome="DESTRO" quota="1" />
+			<giocatore nome="PETAGNA" quota="1" />
+			<giocatore nome="BAJIC" quota="1" />
+			<giocatore nome="CAPRARI" quota="1" />
+			<giocatore nome="SAU" quota="1" />
+			<giocatore nome="CERCI" quota="1" />
+			<giocatore nome="POLITANO" quota="1" />
+			<giocatore nome="ARMENTEROS" quota="1" />
+			<giocatore nome="LASAGNA" quota="1" />
+			<giocatore nome="PALOSCHI" quota="1" />
+			<giocatore nome="BABACAR" quota="1" />
+			<giocatore nome="FARIAS" quota="1" />
+			<giocatore nome="CORNELIUS" quota="1" />
+			<giocatore nome="ANTENUCCI" quota="1" />
+			<giocatore nome="OUNAS" quota="1" />
+			<giocatore nome="EDER" quota="1" />
+			<giocatore nome="BUDIMIR" quota="1" />
+			<giocatore nome="CAICEDO" quota="1" />
+			<giocatore nome="MATRI" quota="1" />
+			<giocatore nome="NIANG" quota="1" />
+			<giocatore nome="TROTTA" quota="1" />
+			<giocatore nome="PUCCIARELLI" quota="1" />
+			<giocatore nome="PERICA" quota="1" />
+			<giocatore nome="PELLISSIER" quota="1" />
+			<giocatore nome="KARAMOH" quota="1" />
+			<giocatore nome="BOYE'" quota="1" />
+			<giocatore nome="RAGUSA" quota="1" />
+			<giocatore nome="BORINI" quota="1" />
+		</attaccanti>
+
+	</proposta>
+	<proposta riversacrediti="true" squadra="S7">
+		<portieri crediti="8">
+			<giocatore nome="REINA" quota="6" />
+			<giocatore nome="STRAKOSHA" quota="6" />
+			<giocatore nome="ALISSON" quota="6" />
+			<giocatore nome="BERISHA" quota="6" />
+			<giocatore nome="SIRIGU" quota="3" />
+			<giocatore nome="SPORTIELLO" quota="3" />
+			<giocatore nome="VIVIANO" quota="3" />
+			<giocatore nome="CONSIGLI" quota="3" />
+			<giocatore nome="MIRANTE" quota="3" />
+			<giocatore nome="PERIN" quota="3" />
+			<giocatore nome="SZCZESNY" quota="2" />
+			<giocatore nome="CORDAZ" quota="1" />
+			<giocatore nome="CRAGNO" quota="1" />
+			<giocatore nome="BELEC" quota="1" />
+			<giocatore nome="SORRENTINO" quota="1" />
+			<giocatore nome="SCUFFET" quota="1" />
+			<giocatore nome="MARCHETTI" quota="1" />
+			<giocatore nome="MERET" quota="1" />
+			<giocatore nome="NICOLAS" quota="1" />
+			<giocatore nome="GOMIS A" quota="1" />
+			<giocatore nome="PUGGIONI" quota="1" />
+			<giocatore nome="GOLLINI" quota="1" />
+			<giocatore nome="DA COSTA" quota="1" />
+			<giocatore nome="SANTURRO" quota="1" />
+			<giocatore nome="CROSTA" quota="1" />
+			<giocatore nome="RAFAEL" quota="1" />
+			<giocatore nome="SECULIN" quota="1" />
+			<giocatore nome="b1" quota="1" />
+			<giocatore nome="b2" quota="1" />
+			<giocatore nome="b3" quota="1" />
+		</portieri>
+		<difensori crediti="15">
+			<giocatore nome="RODRIGUEZ R" quota="10" />
+			<giocatore nome="CALDARA" quota="8" />
+			<giocatore nome="KOULIBALY" quota="8" />
+			<giocatore nome="BONUCCI" quota="8" />
+			<giocatore nome="ACERBI" quota="8" />
+			<giocatore nome="CONTI" quota="6" />
+			<giocatore nome="RUGANI" quota="6" />
+			<giocatore nome="DE VRIJ" quota="6" />
+			<giocatore nome="KOLAROV" quota="6" />
+			<giocatore nome="CHIELLINI" quota="6" />
+			<giocatore nome="ALEX SANDRO" quota="5" />
+			<giocatore nome="MUSACCHIO" quota="4" />
+			<giocatore nome="ALBIOL" quota="4" />
+			<giocatore nome="MANOLAS" quota="4" />
+			<giocatore nome="GHOULAM" quota="1" />
+			<giocatore nome="BENATIA" quota="1" />
+			<giocatore nome="MIRANDA" quota="1" />
+			<giocatore nome="HOWEDES" quota="1" />
+			<giocatore nome="N'KOULOU" quota="1" />
+			<giocatore nome="BRUNO PERES" quota="1" />
+			<giocatore nome="ROMAGNOLI A" quota="1" />
+			<giocatore nome="SKRINIAR" quota="1" />
+			<giocatore nome="FAZIO" quota="1" />
+			<giocatore nome="DANILO" quota="1" />
+			<giocatore nome="MASINA" quota="1" />
+			<giocatore nome="MAIETTA" quota="1" />
+			<giocatore nome="WIDMER" quota="1" />
+			<giocatore nome="MASIELLO A" quota="1" />
+			<giocatore nome="BASTA" quota="1" />
+			<giocatore nome="RADU" quota="1" />
+			<giocatore nome="TOLOI" quota="1" />
+			<giocatore nome="DALBERT" quota="1" />
+			<giocatore nome="D'AMBROSIO" quota="1" />
+			<giocatore nome="ROSSETTINI" quota="1" />
+			<giocatore nome="CACERES" quota="1" />
+			<giocatore nome="PADOIN" quota="1" />
+			<giocatore nome="CACCIATORE" quota="1" />
+			<giocatore nome="PISACANE" quota="1" />
+			<giocatore nome="CAPUANO" quota="1" />
+			<giocatore nome="MARTELLA" quota="1" />
+			<giocatore nome="FERRARI G" quota="1" />
+			<giocatore nome="CANNAVARO" quota="1" />
+			<giocatore nome="ASTORI" quota="1" />
+			<giocatore nome="PEZZELLA GER" quota="1" />
+			<giocatore nome="CANCELO" quota="1" />
+			<giocatore nome="NUYTINCK" quota="1" />
+			<giocatore nome="ROMULO" quota="1" />
+			<giocatore nome="LICHTSTEINER" quota="1" />
+			<giocatore nome="KARSDORP" quota="1" />
+			<giocatore nome="GASPAR" quota="1" />
+			<giocatore nome="GAMBERINI" quota="1" />
+			<giocatore nome="ANDREOLLI" quota="1" />
+			<giocatore nome="SAMIR" quota="1" />
+			<giocatore nome="BARRECA" quota="1" />
+			<giocatore nome="LYANCO" quota="1" />
+			<giocatore nome="LIROLA" quota="1" />
+			<giocatore nome="PELUSO" quota="1" />
+			<giocatore nome="SILVESTRE" quota="1" />
+			<giocatore nome="HECTOR MORENO" quota="1" />
+			<giocatore nome="HYSAJ" quota="1" />
+			<giocatore nome="LUKAKU" quota="1" />
+			<giocatore nome="BARZAGLI" quota="1" />
+			<giocatore nome="VITOR HUGO" quota="1" />
+			<giocatore nome="LUCIONI" quota="1" />
+			<giocatore nome="HATEBOER" quota="1" />
+			<giocatore nome="LAZAAR" quota="1" />
+			<giocatore nome="VAN DER WIEL" quota="1" />
+			<giocatore nome="FERRARI A" quota="1" />
+			<giocatore nome="HEURTAUX" quota="1" />
+			<giocatore nome="SOUPRAYEN" quota="1" />
+			<giocatore nome="DE SILVESTRI" quota="1" />
+			<giocatore nome="VICARI" quota="1" />
+			<giocatore nome="MURRU" quota="1" />
+			<giocatore nome="REGINI" quota="1" />
+			<giocatore nome="JUAN JESUS" quota="1" />
+			<giocatore nome="MAKSIMOVIC" quota="1" />
+			<giocatore nome="WALLACE" quota="1" />
+			<giocatore nome="BIRASCHI" quota="1" />
+			<giocatore nome="IZZO" quota="1" />
+			<giocatore nome="CABRERA" quota="1" />
+		</difensori>
+
+
+		<centrocampisti crediti="80">
+			<giocatore nome="PERISIC" quota="61" />
+			<giocatore nome="HAMSIK" quota="61" />
+			<giocatore nome="NAINGGOLAN" quota="50" />
+			<giocatore nome="SUSO" quota="45" />
+			<giocatore nome="ZIELINSKI" quota="42" />
+			<giocatore nome="PEROTTI" quota="42" />
+			<giocatore nome="KESSIE'" quota="41" />
+			<giocatore nome="CHIESA" quota="31" />
+			<giocatore nome="FELIPE ANDERSON" quota="30" />
+			<giocatore nome="CUADRADO" quota="30" />
+			<giocatore nome="KHEDIRA" quota="26" />
+			<giocatore nome="BONAVENTURA" quota="26" />
+			<giocatore nome="ILICIC" quota="24" />
+			<giocatore nome="CANDREVA" quota="24" />
+			<giocatore nome="PAROLO" quota="24" />
+			<giocatore nome="PJANIC" quota="23" />
+			<giocatore nome="STROOTMAN" quota="23" />
+			<giocatore nome="FLORENZI" quota="23" />
+			<giocatore nome="BIGLIA" quota="23" />
+			<giocatore nome="BIRSA" quota="20" />
+			<giocatore nome="MILINKOVIC-SAVIC" quota="19" />
+			<giocatore nome="SPINAZZOLA" quota="15" />
+			<giocatore nome="BERNARDESCHI" quota="7" />
+			<giocatore nome="JANKTO" quota="1" />
+			<giocatore nome="ALLAN" quota="1" />
+			<giocatore nome="VECINO" quota="1" />
+			<giocatore nome="VERDI" quota="1" />
+			<giocatore nome="JOAO PEDRO" quota="1" />
+			<giocatore nome="DOUGLAS COSTA" quota="1" />
+			<giocatore nome="MATUIDI" quota="1" />
+			<giocatore nome="CALHANOGLU" quota="1" />
+			<giocatore nome="RAMIREZ" quota="1" />
+			<giocatore nome="DE PAUL" quota="1" />
+			<giocatore nome="LULIC" quota="1" />
+			<giocatore nome="EYSSERIC" quota="1" />
+			<giocatore nome="CICIRETTI" quota="1" />
+			<giocatore nome="DI FRANCESCO F" quota="1" />
+			<giocatore nome="CASTRO" quota="1" />
+			<giocatore nome="SAPONARA" quota="1" />
+			<giocatore nome="VERETOUT" quota="1" />
+			<giocatore nome="BORJA VALERO" quota="1" />
+			<giocatore nome="GAGLIARDINI" quota="1" />
+			<giocatore nome="JOAO MARIO" quota="1" />
+			<giocatore nome="LUCAS LEIVA" quota="1" />
+			<giocatore nome="BASELLI" quota="1" />
+			<giocatore nome="FOFANA" quota="1" />
+			<giocatore nome="CRISTANTE" quota="1" />
+			<giocatore nome="KURTIC" quota="1" />
+			<giocatore nome="IONITA" quota="1" />
+			<giocatore nome="PELLEGRINI" quota="1" />
+			<giocatore nome="LAZZARI M" quota="1" />
+			<giocatore nome="CENTURION" quota="1" />
+			<giocatore nome="FREULER" quota="1" />
+			<giocatore nome="TAIDER" quota="1" />
+			<giocatore nome="BADELJ" quota="1" />
+			<giocatore nome="MARCHISIO" quota="1" />
+			<giocatore nome="DE ROSSI" quota="1" />
+			<giocatore nome="UNDER" quota="1" />
+			<giocatore nome="PRAET" quota="1" />
+			<giocatore nome="BENASSI" quota="1" />
+			<giocatore nome="DE ROON" quota="1" />
+			<giocatore nome="GIL DIAS" quota="1" />
+			<giocatore nome="D'ALESSANDRO" quota="1" />
+			<giocatore nome="BERTOLACCI" quota="1" />
+			<giocatore nome="LAXALT" quota="1" />
+			<giocatore nome="LAZOVIC" quota="1" />
+			<giocatore nome="BROZOVIC" quota="1" />
+			<giocatore nome="DIAWARA" quota="1" />
+			<giocatore nome="ALVAREZ R" quota="1" />
+			<giocatore nome="TORREIRA" quota="1" />
+			<giocatore nome="MISSIROLI" quota="1" />
+			<giocatore nome="SENSI" quota="1" />
+			<giocatore nome="BERENGUER" quota="1" />
+			<giocatore nome="HALLFREDSSON" quota="1" />
+			<giocatore nome="BESSA" quota="1" />
+			<giocatore nome="DONSAH" quota="1" />
+			<giocatore nome="KREJCI" quota="1" />
+			<giocatore nome="POLI" quota="1" />
+			<giocatore nome="CIGARINI" quota="1" />
+			<giocatore nome="NALINI" quota="1" />
+		</centrocampisti>
+
+
+		<attaccanti crediti="157">
+			<giocatore nome="DYBALA" quota="120" />
+			<giocatore nome="ICARDI" quota="115" />
+			<giocatore nome="IMMOBILE" quota="110" />
+			<giocatore nome="BELOTTI" quota="109" />
+			<giocatore nome="MERTENS" quota="101" />
+			<giocatore nome="HIGUAIN" quota="87" />
+			<giocatore nome="INSIGNE" quota="85" />
+			<giocatore nome="GOMEZ A" quota="84" />
+			<giocatore nome="KALINIC" quota="80" />
+			<giocatore nome="DZEKO" quota="79" />
+			<giocatore nome="CALLEJON" quota="65" />
+			<giocatore nome="THEREAU" quota="64" />
+			<giocatore nome="QUAGLIARELLA" quota="63" />
+			<giocatore nome="MANDZUKIC" quota="62" />
+			<giocatore nome="BERARDI" quota="55" />
+			<giocatore nome="LAPADULA" quota="54" />
+			<giocatore nome="PAVOLETTI" quota="50" />
+			<giocatore nome="DEFREL" quota="48" />
+			<giocatore nome="EL SHAARAWY" quota="48" />
+			<giocatore nome="PETAGNA" quota="41" />
+			<giocatore nome="BORRIELLO" quota="22" />
+			<giocatore nome="FALCINELLI" quota="21" />
+			<giocatore nome="MILIK" quota="20" />
+			<giocatore nome="SCHICK" quota="20" />
+			<giocatore nome="IAGO FALQUE" quota="19" />
+			<giocatore nome="SIMEONE" quota="18" />
+			<giocatore nome="DESTRO" quota="18" />
+			<giocatore nome="NIANG" quota="17" />
+			<giocatore nome="LJAJIC" quota="16" />
+			<giocatore nome="CAPRARI" quota="15" />
+			<giocatore nome="PAZZINI" quota="7" />
+			<giocatore nome="INGLESE" quota="6" />
+			<giocatore nome="SAU" quota="4" />
+			<giocatore nome="CERCI" quota="4" />
+			<giocatore nome="LASAGNA" quota="4" />
+			<giocatore nome="PALACIO" quota="4" />
+			<giocatore nome="TROTTA" quota="4" />
+			<giocatore nome="PUCCIARELLI" quota="4" />
+			<giocatore nome="PELLEGRI" quota="3" />
+			<giocatore nome="NANI" quota="3" />
+			<giocatore nome="ZAPATA D" quota="3" />
+			<giocatore nome="ANDRE' SILVA" quota="3" />
+			<giocatore nome="BAJIC" quota="3" />
+			<giocatore nome="POLITANO" quota="3" />
+			<giocatore nome="ARMENTEROS" quota="3" />
+			<giocatore nome="PALOSCHI" quota="3" />
+			<giocatore nome="BABACAR" quota="3" />
+			<giocatore nome="FARIAS" quota="3" />
+			<giocatore nome="CORNELIUS" quota="3" />
+			<giocatore nome="ANTENUCCI" quota="3" />
+			<giocatore nome="OUNAS" quota="3" />
+			<giocatore nome="BUDIMIR" quota="3" />
+			<giocatore nome="CAICEDO" quota="3" />
+			<giocatore nome="MATRI" quota="3" />
+			<giocatore nome="PERICA" quota="3" />
+			<giocatore nome="PELLISSIER" quota="3" />
+			<giocatore nome="KARAMOH" quota="3" />
+			<giocatore nome="BOYE'" quota="3" />
+			<giocatore nome="RAGUSA" quota="3" />
+			<giocatore nome="EDER" quota="1" />
+		</attaccanti>
+
+	</proposta>
+	<proposta riversacrediti="true" squadra="S8">
+		<portieri crediti="20">
+			<giocatore nome="BUFFON" quota="15" />
+			<giocatore nome="HANDANOVIC" quota="14" />
+			<giocatore nome="DONNARUMMA G" quota="14" />
+			<giocatore nome="REINA" quota="14" />
+			<giocatore nome="STRAKOSHA" quota="12" />
+			<giocatore nome="ALISSON" quota="12" />
+			<giocatore nome="BERISHA" quota="11" />
+			<giocatore nome="SIRIGU" quota="10" />
+			<giocatore nome="SPORTIELLO" quota="10" />
+			<giocatore nome="VIVIANO" quota="10" />
+			<giocatore nome="CONSIGLI" quota="9" />
+			<giocatore nome="MIRANTE" quota="8" />
+			<giocatore nome="CRAGNO" quota="8" />
+			<giocatore nome="CORDAZ" quota="8" />
+			<giocatore nome="PERIN" quota="8" />
+			<giocatore nome="BELEC" quota="8" />
+			<giocatore nome="SORRENTINO" quota="8" />
+			<giocatore nome="SCUFFET" quota="8" />
+			<giocatore nome="MARCHETTI" quota="6" />
+			<giocatore nome="MERET" quota="6" />
+			<giocatore nome="NICOLAS" quota="6" />
+			<giocatore nome="GOMIS A" quota="1" />
+			<giocatore nome="SZCZESNY" quota="1" />
+			<giocatore nome="PUGGIONI" quota="1" />
+			<giocatore nome="GOLLINI" quota="1" />
+			<giocatore nome="DA COSTA" quota="1" />
+			<giocatore nome="SANTURRO" quota="1" />
+			<giocatore nome="CROSTA" quota="1" />
+			<giocatore nome="RAFAEL" quota="1" />
+			<giocatore nome="SECULIN" quota="1" />
+		</portieri>
+
+
+		<difensori crediti="40">
+			<giocatore nome="BONUCCI" quota="30" />
+			<giocatore nome="CALDARA" quota="30" />
+			<giocatore nome="DE VRIJ" quota="25" />
+			<giocatore nome="KOULIBALY" quota="25" />
+			<giocatore nome="GHOULAM" quota="20" />
+			<giocatore nome="CHIELLINI" quota="20" />
+			<giocatore nome="RODRIGUEZ R" quota="18" />
+			<giocatore nome="CONTI" quota="15" />
+			<giocatore nome="KOLAROV" quota="13" />
+			<giocatore nome="ALEX SANDRO" quota="13" />
+			<giocatore nome="MANOLAS" quota="12" />
+			<giocatore nome="ACERBI" quota="12" />
+			<giocatore nome="BENATIA" quota="11" />
+			<giocatore nome="MIRANDA" quota="10" />
+			<giocatore nome="HOWEDES" quota="10" />
+			<giocatore nome="N'KOULOU" quota="10" />
+			<giocatore nome="BRUNO PERES" quota="10" />
+			<giocatore nome="MUSACCHIO" quota="10" />
+			<giocatore nome="RUGANI" quota="10" />
+			<giocatore nome="ASTORI" quota="10" />
+			<giocatore nome="MASIELLO A" quota="10" />
+			<giocatore nome="PEZZELLA GER" quota="10" />
+			<giocatore nome="CANCELO" quota="10" />
+			<giocatore nome="DALBERT" quota="10" />
+			<giocatore nome="NUYTINCK" quota="10" />
+			<giocatore nome="ROMULO" quota="10" />
+			<giocatore nome="FAZIO" quota="10" />
+			<giocatore nome="ALBIOL" quota="10" />
+			<giocatore nome="ROMAGNOLI A" quota="10" />
+			<giocatore nome="LICHTSTEINER" quota="9" />
+			<giocatore nome="SKRINIAR" quota="9" />
+			<giocatore nome="KARSDORP" quota="9" />
+			<giocatore nome="GOBBI" quota="8" />
+			<giocatore nome="RADU" quota="8" />
+			<giocatore nome="D'AMBROSIO" quota="8" />
+			<giocatore nome="GASPAR" quota="8" />
+			<giocatore nome="GAMBERINI" quota="8" />
+			<giocatore nome="ANDREOLLI" quota="8" />
+			<giocatore nome="DANILO" quota="8" />
+			<giocatore nome="SAMIR" quota="8" />
+			<giocatore nome="WIDMER" quota="8" />
+			<giocatore nome="BARRECA" quota="8" />
+			<giocatore nome="LYANCO" quota="8" />
+			<giocatore nome="LIROLA" quota="8" />
+			<giocatore nome="PELUSO" quota="8" />
+			<giocatore nome="SILVESTRE" quota="8" />
+			<giocatore nome="HECTOR MORENO" quota="8" />
+			<giocatore nome="HYSAJ" quota="8" />
+			<giocatore nome="LUKAKU" quota="6" />
+			<giocatore nome="BARZAGLI" quota="6" />
+			<giocatore nome="VITOR HUGO" quota="6" />
+			<giocatore nome="PISACANE" quota="6" />
+			<giocatore nome="MASINA" quota="6" />
+			<giocatore nome="LUCIONI" quota="6" />
+			<giocatore nome="HATEBOER" quota="6" />
+			<giocatore nome="TOLOI" quota="6" />
+			<giocatore nome="LAZAAR" quota="6" />
+			<giocatore nome="VAN DER WIEL" quota="6" />
+			<giocatore nome="CACERES" quota="6" />
+			<giocatore nome="FERRARI A" quota="6" />
+			<giocatore nome="HEURTAUX" quota="6" />
+			<giocatore nome="SOUPRAYEN" quota="6" />
+			<giocatore nome="DE SILVESTRI" quota="5" />
+			<giocatore nome="ROSSETTINI" quota="5" />
+			<giocatore nome="VICARI" quota="5" />
+			<giocatore nome="CANNAVARO" quota="5" />
+			<giocatore nome="FERRARI G" quota="5" />
+			<giocatore nome="MURRU" quota="5" />
+			<giocatore nome="REGINI" quota="5" />
+			<giocatore nome="JUAN JESUS" quota="5" />
+			<giocatore nome="MAKSIMOVIC" quota="5" />
+			<giocatore nome="WALLACE" quota="5" />
+			<giocatore nome="BIRASCHI" quota="5" />
+			<giocatore nome="IZZO" quota="5" />
+			<giocatore nome="CABRERA" quota="5" />
+			<giocatore nome="MARTELLA" quota="5" />
+			<giocatore nome="SAMPIRISI" quota="5" />
+			<giocatore nome="CACCIATORE" quota="5" />
+			<giocatore nome="BASTA" quota="5" />
+			<giocatore nome="PADOIN" quota="5" />
+		</difensori>
+
+
+		<centrocampisti crediti="70">
+			<giocatore nome="PERISIC" quota="45" />
+			<giocatore nome="NAINGGOLAN" quota="45" />
+			<giocatore nome="MILINKOVIC-SAVIC" quota="40" />
+			<giocatore nome="STROOTMAN" quota="40" />
+			<giocatore nome="PJANIC" quota="35" />
+			<giocatore nome="BERNARDESCHI" quota="35" />
+			<giocatore nome="FELIPE ANDERSON" quota="30" />
+			<giocatore nome="KHEDIRA" quota="30" />
+			<giocatore nome="HAMSIK" quota="28" />
+			<giocatore nome="JOAO PEDRO" quota="25" />
+			<giocatore nome="DOUGLAS COSTA" quota="25" />
+			<giocatore nome="MATUIDI" quota="25" />
+			<giocatore nome="CANDREVA" quota="25" />
+			<giocatore nome="SUSO" quota="20" />
+			<giocatore nome="BONAVENTURA" quota="20" />
+			<giocatore nome="CALHANOGLU" quota="20" />
+			<giocatore nome="PEROTTI" quota="20" />
+			<giocatore nome="BIRSA" quota="18" />
+			<giocatore nome="CHIESA" quota="15" />
+			<giocatore nome="RAMIREZ" quota="15" />
+			<giocatore nome="CUADRADO" quota="12" />
+			<giocatore nome="VERDI" quota="12" />
+			<giocatore nome="DE PAUL" quota="12" />
+			<giocatore nome="VECINO" quota="10" />
+			<giocatore nome="LULIC" quota="10" />
+			<giocatore nome="PAROLO" quota="10" />
+			<giocatore nome="KESSIE'" quota="10" />
+			<giocatore nome="ZIELINSKI" quota="10" />
+			<giocatore nome="JANKTO" quota="10" />
+			<giocatore nome="EYSSERIC" quota="10" />
+			<giocatore nome="ILICIC" quota="10" />
+			<giocatore nome="CICIRETTI" quota="10" />
+			<giocatore nome="DI FRANCESCO F" quota="10" />
+			<giocatore nome="CASTRO" quota="10" />
+			<giocatore nome="SAPONARA" quota="10" />
+			<giocatore nome="VERETOUT" quota="10" />
+			<giocatore nome="BORJA VALERO" quota="10" />
+			<giocatore nome="GAGLIARDINI" quota="10" />
+			<giocatore nome="JOAO MARIO" quota="10" />
+			<giocatore nome="LUCAS LEIVA" quota="10" />
+			<giocatore nome="BASELLI" quota="10" />
+			<giocatore nome="FOFANA" quota="10" />
+			<giocatore nome="CRISTANTE" quota="10" />
+			<giocatore nome="KURTIC" quota="10" />
+			<giocatore nome="IONITA" quota="10" />
+			<giocatore nome="BIGLIA" quota="10" />
+			<giocatore nome="ALLAN" quota="10" />
+			<giocatore nome="FLORENZI" quota="10" />
+			<giocatore nome="PELLEGRINI" quota="10" />
+			<giocatore nome="LAZZARI M" quota="10" />
+			<giocatore nome="CENTURION" quota="10" />
+			<giocatore nome="FREULER" quota="9" />
+			<giocatore nome="TAIDER" quota="9" />
+			<giocatore nome="BADELJ" quota="9" />
+			<giocatore nome="MARCHISIO" quota="9" />
+			<giocatore nome="DE ROSSI" quota="9" />
+			<giocatore nome="UNDER" quota="9" />
+			<giocatore nome="PRAET" quota="9" />
+			<giocatore nome="BENASSI" quota="9" />
+			<giocatore nome="DE ROON" quota="9" />
+			<giocatore nome="GIL DIAS" quota="7" />
+			<giocatore nome="D'ALESSANDRO" quota="7" />
+			<giocatore nome="BERTOLACCI" quota="7" />
+			<giocatore nome="LAXALT" quota="7" />
+			<giocatore nome="LAZOVIC" quota="7" />
+			<giocatore nome="BROZOVIC" quota="7" />
+			<giocatore nome="DIAWARA" quota="7" />
+			<giocatore nome="ALVAREZ R" quota="7" />
+			<giocatore nome="TORREIRA" quota="7" />
+			<giocatore nome="MISSIROLI" quota="7" />
+			<giocatore nome="SENSI" quota="6" />
+			<giocatore nome="BERENGUER" quota="6" />
+			<giocatore nome="HALLFREDSSON" quota="6" />
+			<giocatore nome="BESSA" quota="6" />
+			<giocatore nome="SPINAZZOLA" quota="6" />
+			<giocatore nome="DONSAH" quota="5" />
+			<giocatore nome="KREJCI" quota="5" />
+			<giocatore nome="POLI" quota="5" />
+			<giocatore nome="CIGARINI" quota="5" />
+			<giocatore nome="NALINI" quota="5" />
+		</centrocampisti>
+
+
+		<attaccanti crediti="130">
+			<giocatore nome="MERTENS" quota="90" />
+			<giocatore nome="DZEKO" quota="90" />
+			<giocatore nome="IMMOBILE" quota="90" />
+			<giocatore nome="ICARDI" quota="85" />
+			<giocatore nome="BELOTTI" quota="85" />
+			<giocatore nome="HIGUAIN" quota="85" />
+			<giocatore nome="DYBALA" quota="80" />
+			<giocatore nome="INSIGNE" quota="75" />
+			<giocatore nome="CALLEJON" quota="60" />
+			<giocatore nome="GOMEZ A" quota="50" />
+			<giocatore nome="KALINIC" quota="50" />
+			<giocatore nome="MANDZUKIC" quota="40" />
+			<giocatore nome="IAGO FALQUE" quota="40" />
+			<giocatore nome="BORRIELLO" quota="35" />
+			<giocatore nome="QUAGLIARELLA" quota="35" />
+			<giocatore nome="PELLEGRI" quota="25" />
+			<giocatore nome="LJAJIC" quota="20" />
+			<giocatore nome="THEREAU" quota="17" />
+			<giocatore nome="SCHICK" quota="17" />
+			<giocatore nome="PAZZINI" quota="17" />
+			<giocatore nome="FALCINELLI" quota="16" />
+			<giocatore nome="BERARDI" quota="16" />
+			<giocatore nome="SIMEONE" quota="16" />
+			<giocatore nome="NANI" quota="16" />
+			<giocatore nome="MILIK" quota="16" />
+			<giocatore nome="LAPADULA" quota="16" />
+			<giocatore nome="DEFREL" quota="16" />
+			<giocatore nome="ZAPATA D" quota="16" />
+			<giocatore nome="ANDRE' SILVA" quota="16" />
+			<giocatore nome="INGLESE" quota="15" />
+			<giocatore nome="DESTRO" quota="15" />
+			<giocatore nome="PETAGNA" quota="15" />
+			<giocatore nome="BAJIC" quota="15" />
+			<giocatore nome="CAPRARI" quota="13" />
+			<giocatore nome="SAU" quota="13" />
+			<giocatore nome="CERCI" quota="13" />
+			<giocatore nome="POLITANO" quota="13" />
+			<giocatore nome="ARMENTEROS" quota="13" />
+			<giocatore nome="LASAGNA" quota="13" />
+			<giocatore nome="PALOSCHI" quota="13" />
+			<giocatore nome="BABACAR" quota="13" />
+			<giocatore nome="FARIAS" quota="13" />
+			<giocatore nome="CORNELIUS" quota="12" />
+			<giocatore nome="ANTENUCCI" quota="12" />
+			<giocatore nome="OUNAS" quota="12" />
+			<giocatore nome="PAVOLETTI" quota="12" />
+			<giocatore nome="EDER" quota="12" />
+			<giocatore nome="BUDIMIR" quota="12" />
+			<giocatore nome="PALACIO" quota="11" />
+			<giocatore nome="CAICEDO" quota="11" />
+			<giocatore nome="MATRI" quota="11" />
+			<giocatore nome="NIANG" quota="11" />
+			<giocatore nome="TROTTA" quota="10" />
+			<giocatore nome="PUCCIARELLI" quota="10" />
+			<giocatore nome="PERICA" quota="10" />
+			<giocatore nome="PELLISSIER" quota="9" />
+			<giocatore nome="KARAMOH" quota="9" />
+			<giocatore nome="BOYE'" quota="9" />
+			<giocatore nome="RAGUSA" quota="9" />
+		</attaccanti>
+
+	</proposta>
+	<proposta riversacrediti="true" squadra="Sandro">
+		<portieri crediti="8">
+			<giocatore nome="BERISHA" quota="6" />
+			<giocatore nome="SIRIGU" quota="6" />
+			<giocatore nome="SPORTIELLO" quota="6" />
+			<giocatore nome="SZCZESNY" quota="6" />
+			<giocatore nome="STRAKOSHA" quota="6" />
+			<giocatore nome="HANDANOVIC" quota="6" />
+			<giocatore nome="DONNARUMMA G" quota="6" />
+			<giocatore nome="REINA" quota="6" />
+			<giocatore nome="ALISSON" quota="6" />
+			<giocatore nome="BUFFON" quota="5" />
+			<giocatore nome="CONSIGLI" quota="4" />
+			<giocatore nome="MIRANTE" quota="4" />
+			<giocatore nome="PERIN" quota="4" />
+			<giocatore nome="SCUFFET" quota="4" />
+			<giocatore nome="MERET" quota="4" />
+			<giocatore nome="SORRENTINO" quota="3" />
+			<giocatore nome="BELEC" quota="3" />
+			<giocatore nome="VIVIANO" quota="3" />
+			<giocatore nome="CRAGNO" quota="3" />
+			<giocatore nome="CORDAZ" quota="2" />
+			<giocatore nome="NICOLAS" quota="1" />
+			<giocatore nome="GOMIS A" quota="1" />
+			<giocatore nome="PUGGIONI" quota="1" />
+			<giocatore nome="GOLLINI" quota="1" />
+			<giocatore nome="DA COSTA" quota="1" />
+			<giocatore nome="SANTURRO" quota="1" />
+			<giocatore nome="CROSTA" quota="1" />
+			<giocatore nome="RAFAEL" quota="1" />
+			<giocatore nome="SECULIN" quota="1" />
+			<giocatore nome="MARCHETTI" quota="1" />
+		</portieri>
+
+
+		<difensori crediti="32">
+			<giocatore nome="RODRIGUEZ R" quota="16" />
+			<giocatore nome="KOLAROV" quota="16" />
+			<giocatore nome="CALDARA" quota="16" />
+			<giocatore nome="BONUCCI" quota="16" />
+			<giocatore nome="ALEX SANDRO" quota="16" />
+			<giocatore nome="GHOULAM" quota="16" />
+			<giocatore nome="SKRINIAR" quota="14" />
+			<giocatore nome="KOULIBALY" quota="14" />
+			<giocatore nome="ACERBI" quota="14" />
+			<giocatore nome="RUGANI" quota="14" />
+			<giocatore nome="MANOLAS" quota="14" />
+			<giocatore nome="ALBIOL" quota="14" />
+			<giocatore nome="ASTORI" quota="14" />
+			<giocatore nome="MIRANDA" quota="14" />
+			<giocatore nome="CHIELLINI" quota="14" />
+			<giocatore nome="DE VRIJ" quota="13" />
+			<giocatore nome="LICHTSTEINER" quota="12" />
+			<giocatore nome="CANNAVARO" quota="12" />
+			<giocatore nome="BARRECA" quota="11" />
+			<giocatore nome="PEZZELLA GER" quota="11" />
+			<giocatore nome="LIROLA" quota="10" />
+			<giocatore nome="BENATIA" quota="10" />
+			<giocatore nome="MATTIELLO" quota="8" />
+			<giocatore nome="N'KOULOU" quota="8" />
+			<giocatore nome="BRUNO PERES" quota="8" />
+			<giocatore nome="LUKAKU" quota="8" />
+			<giocatore nome="BASTA" quota="8" />
+			<giocatore nome="BARZAGLI" quota="7" />
+			<giocatore nome="D'AMBROSIO" quota="4" />
+			<giocatore nome="EMERSON" quota="4" />
+			<giocatore nome="MUSACCHIO" quota="4" />
+			<giocatore nome="DALBERT" quota="4" />
+			<giocatore nome="LYANCO" quota="4" />
+			<giocatore nome="HOWEDES" quota="4" />
+			<giocatore nome="ROMAGNOLI A" quota="4" />
+			<giocatore nome="CANCELO" quota="4" />
+			<giocatore nome="REGINI" quota="4" />
+			<giocatore nome="GASPAR" quota="4" />
+			<giocatore nome="BASTOS" quota="4" />
+			<giocatore nome="SAMIR" quota="4" />
+			<giocatore nome="WIDMER" quota="4" />
+			<giocatore nome="ASAMOAH" quota="4" />
+			<giocatore nome="DE SCIGLIO" quota="4" />
+			<giocatore nome="NUYTINCK" quota="4" />
+			<giocatore nome="VITOR HUGO" quota="4" />
+			<giocatore nome="RADU" quota="4" />
+			<giocatore nome="HATEBOER" quota="4" />
+			<giocatore nome="TOLOI" quota="4" />
+			<giocatore nome="SILVESTRE" quota="4" />
+			<giocatore nome="IZZO" quota="4" />
+			<giocatore nome="PELUSO" quota="4" />
+			<giocatore nome="PISACANE" quota="4" />
+			<giocatore nome="MASINA" quota="4" />
+			<giocatore nome="HYSAJ" quota="4" />
+			<giocatore nome="FAZIO" quota="3" />
+			<giocatore nome="DE SILVESTRI" quota="3" />
+			<giocatore nome="CALABRIA" quota="3" />
+			<giocatore nome="MAIETTA" quota="3" />
+			<giocatore nome="CACERES" quota="3" />
+			<giocatore nome="HEURTAUX" quota="3" />
+			<giocatore nome="ANDREOLLI" quota="1" />
+			<giocatore nome="DANILO" quota="1" />
+			<giocatore nome="GAMBERINI" quota="1" />
+			<giocatore nome="VAN DER WIEL" quota="1" />
+			<giocatore nome="WALLACE" quota="1" />
+			<giocatore nome="LAURINI" quota="1" />
+			<giocatore nome="JUAN JESUS" quota="1" />
+			<giocatore nome="PADOIN" quota="1" />
+			<giocatore nome="CHIRICHES" quota="1" />
+			<giocatore nome="ANSALDI" quota="1" />
+			<giocatore nome="ZUKANOVIC" quota="1" />
+			<giocatore nome="CACCIATORE" quota="1" />
+			<giocatore nome="ROMULO" quota="1" />
+			<giocatore nome="GOBBI" quota="1" />
+			<giocatore nome="VICARI" quota="1" />
+			<giocatore nome="MASIELLO A" quota="1" />
+			<giocatore nome="MARIO RUI" quota="1" />
+			<giocatore nome="KARSDORP" quota="1" />
+			<giocatore nome="LUCIONI" quota="1" />
+			<giocatore nome="LAZAAR" quota="1" />
+		</difensori>
+
+
+		<centrocampisti crediti="120">
+			<giocatore nome="PERISIC" quota="60" />
+			<giocatore nome="NAINGGOLAN" quota="55" />
+			<giocatore nome="MILINKOVIC-SAVIC" quota="55" />
+			<giocatore nome="HAMSIK" quota="50" />
+			<giocatore nome="CHIESA" quota="50" />
+			<giocatore nome="PJANIC" quota="45" />
+			<giocatore nome="PEROTTI" quota="45" />
+			<giocatore nome="LUIS ALBERTO" quota="45" />
+			<giocatore nome="PAROLO" quota="45" />
+			<giocatore nome="KESSIE'" quota="38" />
+			<giocatore nome="STROOTMAN" quota="38" />
+			<giocatore nome="BIRSA" quota="35" />
+			<giocatore nome="SPINAZZOLA" quota="20" />
+			<giocatore nome="CUADRADO" quota="20" />
+			<giocatore nome="BENTANCUR" quota="19" />
+			<giocatore nome="MANDRAGORA" quota="19" />
+			<giocatore nome="CANDREVA" quota="18" />
+			<giocatore nome="MATUIDI" quota="18" />
+			<giocatore nome="BERNARDESCHI" quota="18" />
+			<giocatore nome="VERETOUT" quota="18" />
+			<giocatore nome="DOUGLAS COSTA" quota="17" />
+			<giocatore nome="SUSO" quota="17" />
+			<giocatore nome="MARCHISIO" quota="15" />
+			<giocatore nome="CALHANOGLU" quota="15" />
+			<giocatore nome="BIGLIA" quota="15" />
+			<giocatore nome="CASTRO" quota="10" />
+			<giocatore nome="VERDI" quota="9" />
+			<giocatore nome="JOAO PEDRO" quota="9" />
+			<giocatore nome="BONAVENTURA" quota="9" />
+			<giocatore nome="KHEDIRA" quota="9" />
+			<giocatore nome="DE PAUL" quota="9" />
+			<giocatore nome="FELIPE ANDERSON" quota="9" />
+			<giocatore nome="SENSI" quota="9" />
+			<giocatore nome="RAMIREZ" quota="9" />
+			<giocatore nome="LULIC" quota="9" />
+			<giocatore nome="ZIELINSKI" quota="9" />
+			<giocatore nome="ALLAN" quota="9" />
+			<giocatore nome="JANKTO" quota="9" />
+			<giocatore nome="LAXALT" quota="9" />
+			<giocatore nome="DI FRANCESCO F" quota="9" />
+			<giocatore nome="ILICIC" quota="9" />
+			<giocatore nome="BORJA VALERO" quota="9" />
+			<giocatore nome="LUCAS LEIVA" quota="9" />
+			<giocatore nome="GAGLIARDINI" quota="9" />
+			<giocatore nome="JOAO MARIO" quota="9" />
+			<giocatore nome="BASELLI" quota="9" />
+			<giocatore nome="BENASSI" quota="9" />
+			<giocatore nome="FLORENZI" quota="9" />
+			<giocatore nome="PELLEGRINI" quota="9" />
+			<giocatore nome="BADELJ" quota="9" />
+			<giocatore nome="FOFANA" quota="9" />
+			<giocatore nome="LINETTY" quota="9" />
+			<giocatore nome="GIL DIAS" quota="9" />
+			<giocatore nome="FREULER" quota="9" />
+			<giocatore nome="MISSIROLI" quota="9" />
+			<giocatore nome="TORREIRA" quota="9" />
+			<giocatore nome="DE ROON" quota="9" />
+			<giocatore nome="DE ROSSI" quota="9" />
+			<giocatore nome="UNDER" quota="9" />
+			<giocatore nome="PRAET" quota="9" />
+			<giocatore nome="VECINO" quota="9" />
+			<giocatore nome="TAARABT" quota="7" />
+			<giocatore nome="KURTIC" quota="7" />
+			<giocatore nome="ALVAREZ R" quota="6" />
+			<giocatore nome="LOCATELLI M" quota="6" />
+			<giocatore nome="JORGINHO" quota="6" />
+			<giocatore nome="BERTOLACCI" quota="6" />
+			<giocatore nome="DUNCAN" quota="6" />
+			<giocatore nome="POLI" quota="6" />
+			<giocatore nome="MONTOLIVO" quota="6" />
+			<giocatore nome="RINCON" quota="6" />
+			<giocatore nome="BROZOVIC" quota="6" />
+			<giocatore nome="IONITA" quota="6" />
+			<giocatore nome="TAIDER" quota="2" />
+			<giocatore nome="BARELLA" quota="2" />
+			<giocatore nome="HETEMAJ" quota="2" />
+			<giocatore nome="ROG" quota="2" />
+			<giocatore nome="CIGARINI" quota="2" />
+			<giocatore nome="DIAWARA" quota="2" />
+			<giocatore nome="LAZOVIC" quota="2" />
+		</centrocampisti>
+
+
+		<attaccanti crediti="100">
+			<giocatore nome="IMMOBILE" quota="71" />
+			<giocatore nome="SIMEONE" quota="71" />
+			<giocatore nome="DZEKO" quota="71" />
+			<giocatore nome="ICARDI" quota="71" />
+			<giocatore nome="DYBALA" quota="71" />
+			<giocatore nome="HIGUAIN" quota="71" />
+			<giocatore nome="BELOTTI" quota="71" />
+			<giocatore nome="MERTENS" quota="71" />
+			<giocatore nome="ANDRE' SILVA" quota="71" />
+			<giocatore nome="INSIGNE" quota="65" />
+			<giocatore nome="CALLEJON" quota="60" />
+			<giocatore nome="BERARDI" quota="60" />
+			<giocatore nome="QUAGLIARELLA" quota="60" />
+			<giocatore nome="ZAPATA D" quota="60" />
+			<giocatore nome="GOMEZ A" quota="60" />
+			<giocatore nome="MANDZUKIC" quota="40" />
+			<giocatore nome="LAPADULA" quota="40" />
+			<giocatore nome="PAZZINI" quota="40" />
+			<giocatore nome="DEFREL" quota="40" />
+			<giocatore nome="IAGO FALQUE" quota="35" />
+			<giocatore nome="PAVOLETTI" quota="35" />
+			<giocatore nome="PELLEGRI" quota="30" />
+			<giocatore nome="MILIK" quota="30" />
+			<giocatore nome="NIANG" quota="30" />
+			<giocatore nome="LJAJIC" quota="30" />
+			<giocatore nome="KALINIC" quota="30" />
+			<giocatore nome="INGLESE" quota="30" />
+			<giocatore nome="KEAN" quota="30" />
+			<giocatore nome="BORRIELLO" quota="25" />
+			<giocatore nome="PETAGNA" quota="25" />
+			<giocatore nome="LASAGNA" quota="20" />
+			<giocatore nome="DESTRO" quota="20" />
+			<giocatore nome="SCHICK" quota="20" />
+			<giocatore nome="EL SHAARAWY" quota="20" />
+			<giocatore nome="THEREAU" quota="20" />
+			<giocatore nome="SAU" quota="20" />
+			<giocatore nome="CAPRARI" quota="20" />
+			<giocatore nome="POLITANO" quota="10" />
+			<giocatore nome="MAXI LOPEZ" quota="10" />
+			<giocatore nome="FALCINELLI" quota="10" />
+			<giocatore nome="VERDE" quota="2" />
+			<giocatore nome="CUTRONE" quota="2" />
+			<giocatore nome="CODA M" quota="2" />
+			<giocatore nome="PUSCAS" quota="2" />
+			<giocatore nome="PALACIO" quota="2" />
+			<giocatore nome="EDER" quota="2" />
+			<giocatore nome="PANDEV" quota="2" />
+			<giocatore nome="BABACAR" quota="2" />
+			<giocatore nome="BORINI" quota="2" />
+			<giocatore nome="ANTENUCCI" quota="2" />
+			<giocatore nome="FARIAS" quota="2" />
+			<giocatore nome="PERICA" quota="2" />
+			<giocatore nome="BAJIC" quota="2" />
+			<giocatore nome="GALABINOV" quota="2" />
+			<giocatore nome="PELLISSIER" quota="2" />
+			<giocatore nome="MATRI" quota="2" />
+			<giocatore nome="CORNELIUS" quota="2" />
+			<giocatore nome="PJACA" quota="2" />
+			<giocatore nome="ORSOLINI" quota="2" />
+			<giocatore nome="PALOSCHI" quota="2" />
+		</attaccanti>
+
+	</proposta>
+	<proposta riversacrediti="true" squadra="Vittorio">
+		<portieri crediti="15">
+			<giocatore nome="REINA" quota="13" />
+			<giocatore nome="HANDANOVIC" quota="13" />
+			<giocatore nome="SIRIGU" quota="13" />
+			<giocatore nome="BUFFON" quota="13" />
+			<giocatore nome="STRAKOSHA" quota="13" />
+			<giocatore nome="ALISSON" quota="12" />
+			<giocatore nome="BERISHA" quota="11" />
+			<giocatore nome="DONNARUMMA G" quota="10" />
+			<giocatore nome="SPORTIELLO" quota="10" />
+			<giocatore nome="VIVIANO" quota="10" />
+			<giocatore nome="CONSIGLI" quota="9" />
+			<giocatore nome="MIRANTE" quota="8" />
+			<giocatore nome="CRAGNO" quota="4" />
+			<giocatore nome="CORDAZ" quota="4" />
+			<giocatore nome="PERIN" quota="3" />
+			<giocatore nome="BELEC" quota="3" />
+			<giocatore nome="SORRENTINO" quota="3" />
+			<giocatore nome="SCUFFET" quota="3" />
+			<giocatore nome="MARCHETTI" quota="2" />
+			<giocatore nome="MERET" quota="2" />
+			<giocatore nome="NICOLAS" quota="2" />
+			<giocatore nome="GOMIS A" quota="1" />
+			<giocatore nome="SZCZESNY" quota="1" />
+			<giocatore nome="PUGGIONI" quota="1" />
+			<giocatore nome="GOLLINI" quota="1" />
+			<giocatore nome="DA COSTA" quota="1" />
+			<giocatore nome="SANTURRO" quota="1" />
+			<giocatore nome="CROSTA" quota="1" />
+			<giocatore nome="RAFAEL" quota="1" />
+			<giocatore nome="SECULIN" quota="1" />
+		</portieri>
+
+
+		<difensori crediti="35">
+			<giocatore nome="PEZZELLA GER" quota="17" />
+			<giocatore nome="BONUCCI" quota="17" />
+			<giocatore nome="ALEX SANDRO" quota="16" />
+			<giocatore nome="KOULIBALY" quota="15" />
+			<giocatore nome="RODRIGUEZ R" quota="15" />
+			<giocatore nome="CONTI" quota="13" />
+			<giocatore nome="CALDARA" quota="13" />
+			<giocatore nome="DE VRIJ" quota="13" />
+			<giocatore nome="KOLAROV" quota="13" />
+			<giocatore nome="CHIELLINI" quota="13" />
+			<giocatore nome="MANOLAS" quota="12" />
+			<giocatore nome="GHOULAM" quota="12" />
+			<giocatore nome="BENATIA" quota="11" />
+			<giocatore nome="MIRANDA" quota="10" />
+			<giocatore nome="HOWEDES" quota="10" />
+			<giocatore nome="N'KOULOU" quota="10" />
+			<giocatore nome="BRUNO PERES" quota="10" />
+			<giocatore nome="MUSACCHIO" quota="10" />
+			<giocatore nome="RUGANI" quota="10" />
+			<giocatore nome="ASTORI" quota="10" />
+			<giocatore nome="MASIELLO A" quota="10" />
+			<giocatore nome="ACERBI" quota="10" />
+			<giocatore nome="CANCELO" quota="10" />
+			<giocatore nome="DALBERT" quota="10" />
+			<giocatore nome="NUYTINCK" quota="10" />
+			<giocatore nome="ROMULO" quota="10" />
+			<giocatore nome="FAZIO" quota="10" />
+			<giocatore nome="ALBIOL" quota="10" />
+			<giocatore nome="ROMAGNOLI A" quota="10" />
+			<giocatore nome="LICHTSTEINER" quota="9" />
+			<giocatore nome="SKRINIAR" quota="9" />
+			<giocatore nome="KARSDORP" quota="9" />
+			<giocatore nome="BASTA" quota="8" />
+			<giocatore nome="RADU" quota="8" />
+			<giocatore nome="D'AMBROSIO" quota="8" />
+			<giocatore nome="GASPAR" quota="8" />
+			<giocatore nome="GAMBERINI" quota="8" />
+			<giocatore nome="ANDREOLLI" quota="8" />
+			<giocatore nome="DANILO" quota="8" />
+			<giocatore nome="SAMIR" quota="8" />
+			<giocatore nome="WIDMER" quota="8" />
+			<giocatore nome="BARRECA" quota="8" />
+			<giocatore nome="LYANCO" quota="8" />
+			<giocatore nome="LIROLA" quota="8" />
+			<giocatore nome="PELUSO" quota="8" />
+			<giocatore nome="SILVESTRE" quota="8" />
+			<giocatore nome="HECTOR MORENO" quota="8" />
+			<giocatore nome="HYSAJ" quota="8" />
+			<giocatore nome="LUKAKU" quota="6" />
+			<giocatore nome="BARZAGLI" quota="6" />
+			<giocatore nome="VITOR HUGO" quota="6" />
+			<giocatore nome="PISACANE" quota="6" />
+			<giocatore nome="MASINA" quota="6" />
+			<giocatore nome="LUCIONI" quota="6" />
+			<giocatore nome="HATEBOER" quota="6" />
+			<giocatore nome="TOLOI" quota="6" />
+			<giocatore nome="LAZAAR" quota="6" />
+			<giocatore nome="VAN DER WIEL" quota="6" />
+			<giocatore nome="CACERES" quota="6" />
+			<giocatore nome="FERRARI A" quota="6" />
+			<giocatore nome="HEURTAUX" quota="6" />
+			<giocatore nome="SOUPRAYEN" quota="6" />
+			<giocatore nome="DE SILVESTRI" quota="5" />
+			<giocatore nome="ROSSETTINI" quota="5" />
+			<giocatore nome="VICARI" quota="5" />
+			<giocatore nome="CANNAVARO" quota="5" />
+			<giocatore nome="FERRARI G" quota="5" />
+			<giocatore nome="MURRU" quota="5" />
+			<giocatore nome="REGINI" quota="5" />
+			<giocatore nome="JUAN JESUS" quota="5" />
+			<giocatore nome="MAKSIMOVIC" quota="5" />
+			<giocatore nome="WALLACE" quota="5" />
+			<giocatore nome="BIRASCHI" quota="5" />
+			<giocatore nome="IZZO" quota="5" />
+			<giocatore nome="CABRERA" quota="5" />
+			<giocatore nome="MARTELLA" quota="5" />
+			<giocatore nome="SAMPIRISI" quota="5" />
+			<giocatore nome="CACCIATORE" quota="5" />
+			<giocatore nome="GOBBI" quota="5" />
+			<giocatore nome="PADOIN" quota="5" />
+		</difensori>
+
+
+		<centrocampisti crediti="80">
+			<giocatore nome="PERISIC" quota="50" />
+			<giocatore nome="HAMSIK" quota="35" />
+			<giocatore nome="BERNARDESCHI" quota="30" />
+			<giocatore nome="SUSO" quota="30" />
+			<giocatore nome="CUADRADO" quota="30" />
+			<giocatore nome="ZIELINSKI" quota="26" />
+			<giocatore nome="PJANIC" quota="26" />
+			<giocatore nome="JOAO PEDRO" quota="25" />
+			<giocatore nome="CHIESA" quota="20" />
+			<giocatore nome="FELIPE ANDERSON" quota="20" />
+			<giocatore nome="DOUGLAS COSTA" quota="20" />
+			<giocatore nome="BONAVENTURA" quota="20" />
+			<giocatore nome="CANDREVA" quota="17" />
+			<giocatore nome="MILINKOVIC-SAVIC" quota="15" />
+			<giocatore nome="MATUIDI" quota="15" />
+			<giocatore nome="ILICIC" quota="15" />
+			<giocatore nome="PEROTTI" quota="15" />
+			<giocatore nome="BIRSA" quota="15" />
+			<giocatore nome="FLORENZI" quota="15" />
+			<giocatore nome="RAMIREZ" quota="14" />
+			<giocatore nome="NAINGGOLAN" quota="12" />
+			<giocatore nome="KHEDIRA" quota="12" />
+			<giocatore nome="MAGNANELLI" quota="12" />
+			<giocatore nome="BROZOVIC" quota="12" />
+			<giocatore nome="VECINO" quota="10" />
+			<giocatore nome="PAROLO" quota="10" />
+			<giocatore nome="KESSIE'" quota="10" />
+			<giocatore nome="STROOTMAN" quota="10" />
+			<giocatore nome="JANKTO" quota="10" />
+			<giocatore nome="EYSSERIC" quota="10" />
+			<giocatore nome="BASTIEN" quota="10" />
+			<giocatore nome="CICIRETTI" quota="10" />
+			<giocatore nome="DI FRANCESCO F" quota="10" />
+			<giocatore nome="CASTRO" quota="10" />
+			<giocatore nome="SAPONARA" quota="10" />
+			<giocatore nome="VERETOUT" quota="10" />
+			<giocatore nome="BORJA VALERO" quota="10" />
+			<giocatore nome="GAGLIARDINI" quota="10" />
+			<giocatore nome="JOAO MARIO" quota="10" />
+			<giocatore nome="LUCAS LEIVA" quota="10" />
+			<giocatore nome="BASELLI" quota="10" />
+			<giocatore nome="FOFANA" quota="10" />
+			<giocatore nome="CRISTANTE" quota="10" />
+			<giocatore nome="KURTIC" quota="10" />
+			<giocatore nome="IONITA" quota="10" />
+			<giocatore nome="BIGLIA" quota="10" />
+			<giocatore nome="ALLAN" quota="10" />
+			<giocatore nome="FLORENZI" quota="10" />
+			<giocatore nome="PELLEGRINI" quota="10" />
+			<giocatore nome="LAZZARI M" quota="10" />
+			<giocatore nome="CENTURION" quota="10" />
+			<giocatore nome="FREULER" quota="9" />
+			<giocatore nome="TAIDER" quota="9" />
+			<giocatore nome="BADELJ" quota="9" />
+			<giocatore nome="MARCHISIO" quota="9" />
+			<giocatore nome="DE ROSSI" quota="9" />
+			<giocatore nome="UNDER" quota="9" />
+			<giocatore nome="PRAET" quota="9" />
+			<giocatore nome="BENASSI" quota="9" />
+			<giocatore nome="DE ROON" quota="9" />
+			<giocatore nome="GIL DIAS" quota="7" />
+			<giocatore nome="D'ALESSANDRO" quota="7" />
+			<giocatore nome="BERTOLACCI" quota="7" />
+			<giocatore nome="LAXALT" quota="7" />
+			<giocatore nome="LAZOVIC" quota="7" />
+			<giocatore nome="LULIC" quota="7" />
+			<giocatore nome="DIAWARA" quota="7" />
+			<giocatore nome="ALVAREZ R" quota="7" />
+			<giocatore nome="TORREIRA" quota="7" />
+			<giocatore nome="MISSIROLI" quota="7" />
+			<giocatore nome="SENSI" quota="6" />
+			<giocatore nome="BERENGUER" quota="6" />
+			<giocatore nome="HALLFREDSSON" quota="6" />
+			<giocatore nome="BESSA" quota="6" />
+			<giocatore nome="SPINAZZOLA" quota="6" />
+			<giocatore nome="DONSAH" quota="5" />
+			<giocatore nome="KREJCI" quota="5" />
+			<giocatore nome="POLI" quota="2" />
+			<giocatore nome="CIGARINI" quota="2" />
+			<giocatore nome="NALINI" quota="2" />
+		</centrocampisti>
+
+
+		<attaccanti crediti="130">
+			<giocatore nome="DYBALA" quota="105" />
+			<giocatore nome="ICARDI" quota="105" />
+			<giocatore nome="IMMOBILE" quota="105" />
+			<giocatore nome="BELOTTI" quota="105" />
+			<giocatore nome="DZEKO" quota="100" />
+			<giocatore nome="HIGUAIN" quota="90" />
+			<giocatore nome="INSIGNE" quota="90" />
+			<giocatore nome="MERTENS" quota="70" />
+			<giocatore nome="MANDZUKIC" quota="50" />
+			<giocatore nome="CALLEJON" quota="40" />
+			<giocatore nome="KALINIC" quota="40" />
+			<giocatore nome="MILIK" quota="30" />
+			<giocatore nome="FALCINELLI" quota="20" />
+			<giocatore nome="SIMEONE" quota="20" />
+			<giocatore nome="IAGO FALQUE" quota="20" />
+			<giocatore nome="LJAJIC" quota="20" />
+			<giocatore nome="SCHICK" quota="17" />
+			<giocatore nome="GOMEZ A" quota="17" />
+			<giocatore nome="QUAGLIARELLA" quota="17" />
+			<giocatore nome="LJAJIC" quota="16" />
+			<giocatore nome="BERARDI" quota="16" />
+			<giocatore nome="PELLEGRI" quota="16" />
+			<giocatore nome="PETAGNA" quota="16" />
+			<giocatore nome="BORRIELLO" quota="16" />
+			<giocatore nome="LAPADULA" quota="15" />
+			<giocatore nome="DEFREL" quota="15" />
+			<giocatore nome="EL SHAARAWY" quota="15" />
+			<giocatore nome="ZAPATA D" quota="15" />
+			<giocatore nome="ANDRE' SILVA" quota="15" />
+			<giocatore nome="INGLESE" quota="15" />
+			<giocatore nome="PANDEV" quota="15" />
+			<giocatore nome="THEREAU" quota="15" />
+			<giocatore nome="BAJIC" quota="15" />
+			<giocatore nome="CAPRARI" quota="13" />
+			<giocatore nome="SAU" quota="13" />
+			<giocatore nome="CERCI" quota="13" />
+			<giocatore nome="POLITANO" quota="13" />
+			<giocatore nome="ARMENTEROS" quota="13" />
+			<giocatore nome="LASAGNA" quota="13" />
+			<giocatore nome="PALOSCHI" quota="13" />
+			<giocatore nome="BABACAR" quota="13" />
+			<giocatore nome="FARIAS" quota="13" />
+			<giocatore nome="CORNELIUS" quota="12" />
+			<giocatore nome="ANTENUCCI" quota="12" />
+			<giocatore nome="OUNAS" quota="12" />
+			<giocatore nome="PAVOLETTI" quota="12" />
+			<giocatore nome="EDER" quota="10" />
+			<giocatore nome="BUDIMIR" quota="9" />
+			<giocatore nome="PALACIO" quota="9" />
+			<giocatore nome="CAICEDO" quota="9" />
+			<giocatore nome="MATRI" quota="9" />
+			<giocatore nome="NIANG" quota="9" />
+			<giocatore nome="TROTTA" quota="3" />
+			<giocatore nome="PUCCIARELLI" quota="3" />
+			<giocatore nome="PERICA" quota="3" />
+			<giocatore nome="PELLISSIER" quota="2" />
+			<giocatore nome="DESTRO" quota="2" />
+			<giocatore nome="BORINI" quota="2" />
+			<giocatore nome="RAGUSA" quota="1" />
+			<giocatore nome="LO FASO" quota="1" />
+		</attaccanti>
+
+	</proposta>
+
+</tns:proposte>
